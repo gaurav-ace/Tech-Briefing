@@ -1,6 +1,6 @@
 # Tech Briefing PWA
 
-A small installable web app for a Samsung Galaxy S23. It includes live headline loading from Google News RSS through the AllOrigins public CORS proxy, a daily system-design concept, a C++/DSA exercise, and a local archive.
+A small installable web app for android phones. It includes live headline loading from Google News RSS through the AllOrigins public CORS proxy, a daily system-design concept, a C++/DSA exercise, and a local archive.
 
 ## Files
 - `index.html`: app interface and logic
