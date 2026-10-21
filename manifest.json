@@ -1,0 +1,17 @@
+{
+  "name": "Tech Briefing",
+  "short_name": "Tech Briefing",
+  "description": "Daily AI news, system design and coding briefing",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c101a",
+  "theme_color": "#101522",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
