@@ -1,4 +1,4 @@
-const CACHE='tech-briefing-v4';
+const CACHE='tech-briefing-v5';
 const CORE=['./','./index.html','./manifest.json','./icon.svg','./data/headlines.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE))));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('tech-briefing-')&&k!==CACHE).map(k=>caches.delete(k))))));
