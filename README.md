@@ -1,28 +1,24 @@
-# Tech Briefing PWA
+# Tech Briefing v4 — reliable scheduled RSS ingestion
 
-A small installable web app for android phones. It includes live headline loading from Google News RSS through the AllOrigins public CORS proxy, a daily system-design concept, a C++/DSA exercise, and a local archive.
+This update removes browser-side RSS proxy fetching. A GitHub Actions workflow fetches publisher feeds server-side each morning and publishes `data/headlines.json` to the same GitHub Pages site. The app reads that same-origin JSON file, avoiding browser CORS restrictions and public proxy dependence during normal use.
 
-## Files
-- `index.html`: app interface and logic
-- `manifest.json`: installable app metadata
-- `sw.js`: offline shell cache
-- `icon.svg`: app icon
+## Deploy to the SAME repository
+1. Extract this ZIP.
+2. In the existing GitHub repository, upload/replace all files from this package, including the hidden `.github/workflows/update-feeds.yml` file and the `scripts/` and `data/` folders. On GitHub web, use Add file → Upload files; ensure the `.github/workflows` path is preserved. If uploading hidden folders is awkward, use GitHub Desktop or git.
+3. Commit to the branch that GitHub Pages publishes.
+4. Open the repository's Actions tab → `Update Tech Briefing feeds` → `Run workflow` → `Run workflow`.
+5. Wait for a green check. Verify `data/headlines.json` now contains headlines and an updated timestamp.
+6. Open your existing Tech Briefing app and tap Refresh. If stale, close it fully and reopen it; the service worker cache version is bumped to v4.
+7. Confirm the GitHub Pages URL is unchanged so your existing home-screen icon still opens the app.
 
-## Quick test
-Open `index.html` in a browser. Some browsers block service workers and live RSS loading when opened as a local file; use the hosted setup below for full functionality.
+## Morning update
+The workflow is scheduled for 08:00 India Standard Time (02:30 UTC) daily. GitHub scheduled workflows can start late and can be delayed; run manually if needed.
 
-## Host it free with GitHub Pages
-1. Create a GitHub repository, e.g. `tech-briefing`.
-2. Upload all four files to the repository root.
-3. In repository Settings → Pages, choose deploy from branch `main`, folder `/ (root)`, and save.
-4. Wait for the published URL shown by GitHub Pages.
-5. On your Samsung, open that HTTPS URL in Chrome.
-6. Tap Chrome ⋮ → Add to Home screen (or Install app if offered).
-7. Name it `Tech Briefing`. The custom icon and standalone app window should appear.
+## Alerts
+A PWA cannot reliably schedule a local notification for 8 AM while closed without a push service/server or native Android component. This app no longer falsely implies that enabling browser notifications schedules a morning alert. Set a daily Samsung Clock alarm labelled “Open Tech Briefing”. For true push notifications later, add a push provider (e.g. Firebase Cloud Messaging) and subscription endpoint.
 
-## Limitations
-- Live headlines require an internet connection and a third-party public RSS proxy; the proxy may be rate-limited or unavailable. The app provides direct Google News search links as a fallback.
-- News freshness and article summaries are controlled by publishers and feed providers.
-- The archive is saved in local browser storage on this device and may be cleared by browser data cleanup. It does not sync between devices.
-- The system-design and coding items are currently curated starter content, not automatically generated or rotated each day.
-- No background push notifications are configured.
+## Limits
+- Feed publishers can change/block feeds. The workflow logs failures per source and succeeds if at least one feed has content.
+- `data/headlines.json` is committed to the repo, so public repo users can see it. Do not add secrets to the file.
+- Daily system design and coding exercises rotate from curated built-in sets; they are not generated dynamically from the headlines.
+- Archive remains local to the device/browser.
