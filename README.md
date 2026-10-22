@@ -22,3 +22,7 @@ A PWA cannot reliably schedule a local notification for 8 AM while closed withou
 - `data/headlines.json` is committed to the repo, so public repo users can see it. Do not add secrets to the file.
 - Daily system design and coding exercises rotate from curated built-in sets; they are not generated dynamically from the headlines.
 - Archive remains local to the device/browser.
+
+
+## v5 daily rotation fix
+This version rotates the System Design and Coding cards using the calendar date in India (Asia/Kolkata) and bumps the service-worker cache to v5. Replace `index.html` and `sw.js` in the repository root, commit the changes, then close and reopen the installed app. The built-in topic sets currently cycle through the topics included in the app.
