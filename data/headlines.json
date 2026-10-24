@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-23T07:46:27.576673+00:00",
+  "updated_at": "2026-10-24T07:28:49.024225+00:00",
   "items": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "desc": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "date": "2026-10-23T17:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "desc": "",
+      "date": "2026-10-23T16:15:50+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "desc": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "date": "2026-10-23T10:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -9,11 +30,25 @@
       "source": "OpenAI"
     },
     {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "desc": "",
+      "date": "2026-10-23T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "desc": "",
       "date": "2026-10-22T22:24:34+00:00",
       "source": "Hugging Face"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
+      "desc": "LLMs are making formal software verification feasible at a much larger scale Anthropic",
+      "date": "2026-10-22T21:58:06+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Build more responsive apps with the Decisions API",
@@ -28,13 +63,6 @@
       "desc": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared firs",
       "date": "2026-10-22T17:21:30+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "desc": "",
-      "date": "2026-10-22T16:11:31+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "Beyond tree cover: mapping the world’s forest types",
@@ -128,20 +156,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "litellm 1.107.0 Compromised on PyPI: Backdoored Wheels Drop a Credential Stealer and an Hourly Remote Code Loader - StepSecurity",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2Jsb0ZvUFNtUTFrUHY2T1FUUGNhTnZWRkpOZFJUUFhGY1QwRTM0YlV5SmtrTjQ2eXhINmhDUGMtODZFRWxjeTA5cFI0d0R5ejFXZ2RhUng0UkZTS1VXdzAwZkMzT1d2VkpQcklxdHJuX0lOVVg1Z2dFeFpwU250RlpEZU9ycF9TU2xwYlc5eEc3YUVEaVAyTHB4c2J2M0U5bzhYUA?oc=5",
-      "desc": "litellm 1.107.0 Compromised on PyPI: Backdoored Wheels Drop a Credential Stealer and an Hourly Remote Code Loader StepSecurity",
-      "date": "2026-10-21T14:27:25+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "desc": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "date": "2026-10-21T13:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "5 Best GitHub Repositories for AI Agent Skills - KDnuggets",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTN09RQ2FIUmZDOWxiMDVwcWNYSUdXWUxZbUo1cEM0SldBeGdheGhLZnl4c09tanNjRWZnRGlFNTU0eTI0RlpkbVEzQWtMa2VldWpNa3hDWUp1Y1VndFR1Qm9KQjdnNDJTQVAyS3I2b1RqYldxVmFNTW93eEQ?oc=5",
       "desc": "5 Best GitHub Repositories for AI Agent Skills KDnuggets",
@@ -170,13 +184,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "desc": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "date": "2026-10-21T04:50:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
@@ -195,6 +202,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjhSeUlXVVNqZmFOdWNVVVcxMVVDMnRIb1RwSHRJMURDcnJlSVNKYTYxNnZEVnRuMWRFTUxzQ3BRd0RYazNiSFdUcWg3ZTRmeGo3RGhJVm1tejdNdEJaTEpKV0p5clRiVlB4Tk1abjUtRlRjV2djTXNVSEszWERKMWw1Q3cyZlR6cTJkWTVKMmpXT2xoR0Ixb05ya1VTLTZTd0h5QXBTa0VYX2p1?oc=5",
       "desc": "IBM-backed llm-d framework adds controls for running AI models in-house SiliconANGLE",
       "date": "2026-10-20T12:00:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aHJUcF83V0dSZzU4NUx0dVhKV21iNlVyVC1YdzRXT1F0MU8wRDkzSWtyOW0wV3NtNHBmNmJUMjZTMlFoTjMwUEF4cDZHSk1UTHgxSU55VG16MW1SRE1kWk1tOVE?oc=5",
+      "desc": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] shattered.io",
+      "date": "2026-10-20T08:17:58+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -219,13 +233,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "MPS in PyTorch 2.15",
-      "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "desc": "",
-      "date": "2026-10-20T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "How to continue a GitHub Copilot app session in VS Code",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "desc": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
@@ -233,17 +240,10 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnpOOTdkUDRPcEk5Z1NYR3UzbHhnT1ByMHN5M2ZaNFlicC1XTks3VmY3eEo2cE5IaFZIMTU1SU5veWtmaTlxRUJqamxJNTlJaW1fdk9ET2c0UjJKZXh6UUxJTEtyalhtTDdldGJha0xQYUQycE9xY3Y0QnduSmhzdURjMkFDaVozd3dDTFFlYldNTlZxdkVR?oc=5",
-      "desc": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark | NVIDIA Technical Blog NVIDIA Developer",
-      "date": "2026-10-16T17:08:35+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap — the bossman makes use of AI tooling himself after issuing clear pro-AI directives - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZDlFRWI4ZjV3azVVb2N4SGpDQ1g0VzMxTUpoTy1ocVhNN25kQ1o5TkhxQU0zamdZVjhKR2FOTmxpa2ZRM0k2VWVQVTVlaUIzc0tjU2ZlR0xaRmVXX0k0MUxOXzRnNlNmc3cyb3VRQWxQbWF0NDhKMlpTY3hhckhQODB3cnpvZ3VfRWtoVm5oNjRDYXFBWHZJYzNxTjVReXJGaHZiSkZaMUdQMGp1cXJURXJqMUg3VXczc0IxZHpBQ3BJWGtuUld6TXNhdFU4aHF3VGVHekZjemx5WmJ6MUlaN3BsbVZjZ2Z4VkYzWmxGbWtCSU1jdHhUTmFRQWVoTHI4Rkl5Z1lUMFVjT1p3OXNqaDBSSjlSUjlCNFZieTZubXU?oc=5",
-      "desc": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap — the bossman makes use of AI tooling himself after issuing clear pro-AI directives Tom's Hardware",
-      "date": "2026-10-16T10:30:00+00:00",
+      "title": "Leaked API Keys in LLMs: How AI Agents Expose Secrets - GitGuardian Blog",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mSV9FazQ4bG5obmdvWmtLdEpTczRocjYyblVlRXFnT05GaWs5dURZMkFCYVc4eVU3OWZhX0ZuOU0zazR0ZUNFSDRBb29QVV8wWHZXTXVMOFF4SDdHemc?oc=5",
+      "desc": "Leaked API Keys in LLMs: How AI Agents Expose Secrets GitGuardian Blog",
+      "date": "2026-10-19T15:03:10+00:00",
       "source": "AI agents & coding"
     },
     {
