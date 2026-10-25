@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-24T07:28:49.024225+00:00",
+  "updated_at": "2026-10-25T07:42:01.099959+00:00",
   "items": [
+    {
+      "title": "AI Code Review Tools for 2026: A Buyer's Guide - wiz.io",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DRXFPXzEyUGpDV3U5THhKd2xUbWZ5a2JUZVpmVVNNOXdvMzhpYmw1LTMzWk5iSkFkX1RGSlJ4RXRQZG0tejVtRWtRaU5XNGRQWmtTdW9VNDdscjFOdExwMFpuRFFmUGZRUkllTXFYTXNfRWMyQUNF?oc=5",
+      "desc": "AI Code Review Tools for 2026: A Buyer's Guide wiz.io",
+      "date": "2026-10-23T20:06:31+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -140,13 +147,6 @@
       "desc": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub",
       "date": "2026-10-21T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
-      "desc": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet wiz.io",
-      "date": "2026-10-21T15:45:53+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
