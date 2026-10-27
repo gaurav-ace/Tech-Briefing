@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-26T07:57:30.095598+00:00",
+  "updated_at": "2026-10-27T08:05:38.022274+00:00",
   "items": [
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "desc": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "date": "2026-10-26T22:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "desc": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "date": "2026-10-26T14:30:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "desc": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "date": "2026-10-26T13:45:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "desc": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "date": "2026-10-26T10:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "desc": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "desc": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "desc": "Bringing fast and capable computer use to everyone",
+      "date": "2026-10-26T00:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -51,13 +100,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api",
-      "desc": "Fast, focused, low-cost decisions for any application.",
-      "date": "2026-10-22T19:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "desc": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared firs",
@@ -72,32 +114,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "What FDE means at OpenAI",
-      "link": "https://openai.com/index/forward-deployed-engineering-means",
-      "desc": "What forward deployed engineering means at OpenAI",
-      "date": "2026-10-22T06:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "desc": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "date": "2026-10-22T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "AI Cuts Coding Time 52%, Floods Open Source With Slop [2026] - https://tech-insider.org/",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JSFpNRmgzd0hGZ182SEtvVm00TERacWZkTlREWmVDbTVfRHkyTzB5bGRhVTQweHpBOVB0Rm5oWHFYTWZPdlJ4c1RiSE1ubVE3OHBKZ0dNVFVBWjdWMEFxTE11NENJZjJ3OHYwQWJzU1dXTF9ONlE?oc=5",
       "desc": "AI Cuts Coding Time 52%, Floods Open Source With Slop [2026] https://tech-insider.org/",
-      "date": "2026-10-21T23:43:44+00:00",
+      "date": "2026-10-21T23:41:43+00:00",
       "source": "AI agents & coding"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "desc": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "date": "2026-10-21T21:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
@@ -114,11 +135,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
-      "desc": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "date": "2026-10-21T17:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Linux Foundation Survey Highlights Faster Coding and an ‘AI Slop’ Burden - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjR6SjhuY2hkNzlzdTdlWW9RYlQtc2ZuWjFQTEtUUkpXa0pUUnoxbllSMTJGM2RrMkhsWjFzakp5VjVXSzZvcUI1R2ZsbVRUT0RjcEpVN2V5Sm9ZRDlwa0hWbjhUQ2pUNjhZS2czQVFhd25aT3paQVREeXljS1VnR0FjeGg4WkNaNlF5dEVNUndCRWs2TFdCSUpYaThRSEItQkhHVy13R1ZoQWxwREowRnlUMA?oc=5",
+      "desc": "Linux Foundation Survey Highlights Faster Coding and an ‘AI Slop’ Burden HPCwire",
+      "date": "2026-10-21T16:17:48+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
@@ -149,25 +170,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "litellm 1.107.0 Compromised on PyPI: Backdoored Wheels Drop a Credential Stealer and an Hourly Remote Code Loader - StepSecurity",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2Jsb0ZvUFNtUTFrUHY2T1FUUGNhTnZWRkpOZFJUUFhGY1QwRTM0YlV5SmtrTjQ2eXhINmhDUGMtODZFRWxjeTA5cFI0d0R5ejFXZ2RhUng0UkZTS1VXdzAwZkMzT1d2VkpQcklxdHJuX0lOVVg1Z2dFeFpwU250RlpEZU9ycF9TU2xwYlc5eEc3YUVEaVAyTHB4c2J2M0U5bzhYUA?oc=5",
-      "desc": "litellm 1.107.0 Compromised on PyPI: Backdoored Wheels Drop a Credential Stealer and an Hourly Remote Code Loader StepSecurity",
-      "date": "2026-10-21T14:27:25+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "5 Best GitHub Repositories for AI Agent Skills - KDnuggets",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTN09RQ2FIUmZDOWxiMDVwcWNYSUdXWUxZbUo1cEM0SldBeGdheGhLZnl4c09tanNjRWZnRGlFNTU0eTI0RlpkbVEzQWtMa2VldWpNa3hDWUp1Y1VndFR1Qm9KQjdnNDJTQVAyS3I2b1RqYldxVmFNTW93eEQ?oc=5",
       "desc": "5 Best GitHub Repositories for AI Agent Skills KDnuggets",
       "date": "2026-10-21T12:23:23+00:00",
       "source": "AI agents & coding"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "desc": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "date": "2026-10-21T12:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM",
@@ -177,13 +184,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "desc": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "date": "2026-10-21T07:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
@@ -191,9 +191,9 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research",
+      "title": "llm-d 1.0 hardens open-source AI inference for production - IBM Research",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUI0R3lZTGpCVDllNUEta3AxWVNpbUFHbDh2NElRZm5uOVp3cTVVZHNGUE5kd0NYYXRXM0lkWFFkRlRJYTB1NWlnazFpREpKOTNaaGFxdEdlZi1mZkp2dzVEOU1VLU5HT0tjVG83dS1fX2JzTTRRSlFEQzRKaVFVZGl6VkxfOVk?oc=5",
-      "desc": "llm-d 1.0 hardens open-source AI inference for day 2 production operations IBM Research",
+      "desc": "llm-d 1.0 hardens open-source AI inference for production IBM Research",
       "date": "2026-10-20T12:00:00+00:00",
       "source": "AI agents & coding"
     },
@@ -205,17 +205,17 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "TorchTPU is now open source: Run native PyTorch on TPUs - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamRXcjBrRXo2V1plWFFvajhjcUFEa0N4aVZPN3dvVGlPTzZwbF9oUlFWNC1vY1EzdTc1M3pVb3QwZERTekNoU3ZEekd0WlU5czBFUF9qc01aOGhkanpTZGFxeVdKTDM5Tks1Q19uZUtYQ1RUQzFCRjYyTGMtbmg4RkQwUzUzYmpaMllDRERqU21aVkg2cU8wYkI4eGZWWEpOYzdkZmtxTEw5enI5LVE?oc=5",
+      "desc": "TorchTPU is now open source: Run native PyTorch on TPUs Google Cloud",
+      "date": "2026-10-20T11:58:48+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aHJUcF83V0dSZzU4NUx0dVhKV21iNlVyVC1YdzRXT1F0MU8wRDkzSWtyOW0wV3NtNHBmNmJUMjZTMlFoTjMwUEF4cDZHSk1UTHgxSU55VG16MW1SRE1kWk1tOVE?oc=5",
       "desc": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] shattered.io",
       "date": "2026-10-20T08:17:58+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "llm-d 1.0, an open source stack for distributed inference - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTVGeEpBelB0Tm9yZlA1VkloS3lIdkxvVHQ5REV0X05mTVU4QjZQd1R5dVdTZmUtMmFpYWFEYmFSYlhzS1E5dkZhQlJ5VWpkZEZfSnJnczhKb2hSeXBEYkxOLW85UWtDazZ4YlhnQVJrdXRvaFNITnFEWXJWeTFNc2pyX2ZIOUp0OXItLU5wblRxV2xOUVRiNk5NUzNCM0Z5WmlOZGpXM01UdS1jcTNiRg?oc=5",
-      "desc": "llm-d 1.0, an open source stack for distributed inference Google Cloud",
-      "date": "2026-10-20T02:14:19+00:00",
       "source": "AI agents & coding"
     },
     {
