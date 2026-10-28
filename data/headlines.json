@@ -1,12 +1,68 @@
 {
-  "updated_at": "2026-10-27T08:05:38.022274+00:00",
+  "updated_at": "2026-10-28T08:46:21.870547+00:00",
   "items": [
+    {
+      "title": "Benchmarking Coding Agents at Scale - Snowflake",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaDVqVV9kR3lWNThVWUlSMkd0b19qSVZrZGM1NDR3VGRjblI2SXRWSFl3cXBYNFlQblRVMTY5cTRhM0xyMEh1RVlIZXdTTHJRVlRhdkhOcVB3NnIzdEk1QkR2OURUTXdLcmFCSmQzYk8xaE5wZEs0Q1kxOGZZUQ?oc=5",
+      "desc": "Benchmarking Coding Agents at Scale Snowflake",
+      "date": "2026-10-27T22:54:24+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "desc": "",
+      "date": "2026-10-27T17:16:52+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "link": "https://huggingface.co/blog/allenai/novelty-bench",
+      "desc": "",
+      "date": "2026-10-27T16:12:42+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "desc": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "date": "2026-10-27T16:01:38+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "desc": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "date": "2026-10-27T15:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "desc": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "date": "2026-10-27T07:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "desc": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "date": "2026-10-27T00:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "link": "https://openai.com/index/greptile-code-review-codex-astra",
       "desc": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "date": "2026-10-26T22:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Can AI coding agents rebuild biological AI tools from a paper? - The AI Security Institute (AISI)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHh6OGlfeVQ3VEZpRFNQV0xyVjdpRUJEWklDVXpHWnJwWHoyM0d4MDk2aEdOTWotRHNXOU9ZR0huYkZjSjdvUVUwQnJQQkwtQXBCME12U2FUTXNTcTBJVDMtOTFGRVR3a3NRSnoxSE8wNW03cEtoSG5sR25hYWgyNURiTmQ4dXVRU25QTW9JUUdMOERO?oc=5",
+      "desc": "Can AI coding agents rebuild biological AI tools from a paper? The AI Security Institute (AISI)",
+      "date": "2026-10-26T15:25:55+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Working with academic communities to build scientific understanding",
@@ -51,32 +107,25 @@
       "source": "OpenAI"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "desc": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "date": "2026-10-23T17:00:00+00:00",
-      "source": "OpenAI"
+      "title": "llm-d 1.0 Advances Open-Source AI Inference for Production Scale - The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3NzbUhFNDZZb09FTk1ONnE1enJTUFNkOEkyRFhFdzl6WWlzSlN3UGdBVDQ0cmt4MUdsbFRadmhhb3R1UnRqdkhxQUdwamhKdFJKaTJMRzYwOFRpdjBQckVhaGtwNVdYUUIwUHJfMEhUMG5yTlY5ZWc2V3h2XzlPUnRuSzJTUnZjVUR3QlN2WjZnQkZtUm5PdjdvTU9GSG52TGwzVC0xQVc0LVB3T04xY2E4QzlrOWR6ZW1V?oc=5",
+      "desc": "llm-d 1.0 Advances Open-Source AI Inference for Production Scale The Fast Mode",
+      "date": "2026-10-25T23:30:29+00:00",
+      "source": "AI agents & coding"
     },
     {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "link": "https://huggingface.co/blog/allenai/litpivot",
-      "desc": "",
-      "date": "2026-10-23T16:15:50+00:00",
-      "source": "Hugging Face"
+      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
+      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
+      "date": "2026-10-24T07:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "desc": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "date": "2026-10-23T10:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "desc": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "date": "2026-10-23T00:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUhibnRFbmFzN2xHNnZQTDB4Vnd2RmRJeXI2SGNVcHRqUEgxamVZbDhEZkU3N2RLWkRoR0RiRE5aRWlvUklhYmQ5WXNSUTJIeU5CZU5VUTdpdHBfNHFNSVNUM3BqUDRRR2JEcHZmeHZBLWVxTHQweTJfYUR0cFBNd1p0RlNFWEhnVVpOd3NvZw?oc=5",
+      "desc": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense Help Net Security",
+      "date": "2026-10-23T08:21:48+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -107,6 +156,20 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9od1VBRl9jX29qSGVZVDZPZ2g2ekE2WjhYWFltR0oyeHYxeWdEWVhRMHN3bFc3WXVfNlVIcm5mYmtzaWRjUW1WeUVHTW51MTl1ZGYzN3Nsblo5M1lJR3FCV1Zzaw?oc=5",
+      "desc": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation The New Stack",
+      "date": "2026-10-22T16:32:30+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "desc": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "date": "2026-10-22T14:30:24+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "desc": "",
@@ -135,13 +198,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Linux Foundation Survey Highlights Faster Coding and an ‘AI Slop’ Burden - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjR6SjhuY2hkNzlzdTdlWW9RYlQtc2ZuWjFQTEtUUkpXa0pUUnoxbllSMTJGM2RrMkhsWjFzakp5VjVXSzZvcUI1R2ZsbVRUT0RjcEpVN2V5Sm9ZRDlwa0hWbjhUQ2pUNjhZS2czQVFhd25aT3paQVREeXljS1VnR0FjeGg4WkNaNlF5dEVNUndCRWs2TFdCSUpYaThRSEItQkhHVy13R1ZoQWxwREowRnlUMA?oc=5",
-      "desc": "Linux Foundation Survey Highlights Faster Coding and an ‘AI Slop’ Burden HPCwire",
-      "date": "2026-10-21T16:17:48+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "desc": "",
@@ -154,13 +210,6 @@
       "desc": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub",
       "date": "2026-10-21T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
-      "desc": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet wiz.io",
-      "date": "2026-10-21T15:45:53+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
@@ -191,43 +240,8 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "llm-d 1.0 hardens open-source AI inference for production - IBM Research",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUI0R3lZTGpCVDllNUEta3AxWVNpbUFHbDh2NElRZm5uOVp3cTVVZHNGUE5kd0NYYXRXM0lkWFFkRlRJYTB1NWlnazFpREpKOTNaaGFxdEdlZi1mZkp2dzVEOU1VLU5HT0tjVG83dS1fX2JzTTRRSlFEQzRKaVFVZGl6VkxfOVk?oc=5",
-      "desc": "llm-d 1.0 hardens open-source AI inference for production IBM Research",
-      "date": "2026-10-20T12:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "IBM-backed llm-d framework adds controls for running AI models in-house - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjhSeUlXVVNqZmFOdWNVVVcxMVVDMnRIb1RwSHRJMURDcnJlSVNKYTYxNnZEVnRuMWRFTUxzQ3BRd0RYazNiSFdUcWg3ZTRmeGo3RGhJVm1tejdNdEJaTEpKV0p5clRiVlB4Tk1abjUtRlRjV2djTXNVSEszWERKMWw1Q3cyZlR6cTJkWTVKMmpXT2xoR0Ixb05ya1VTLTZTd0h5QXBTa0VYX2p1?oc=5",
-      "desc": "IBM-backed llm-d framework adds controls for running AI models in-house SiliconANGLE",
-      "date": "2026-10-20T12:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "TorchTPU is now open source: Run native PyTorch on TPUs - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamRXcjBrRXo2V1plWFFvajhjcUFEa0N4aVZPN3dvVGlPTzZwbF9oUlFWNC1vY1EzdTc1M3pVb3QwZERTekNoU3ZEekd0WlU5czBFUF9qc01aOGhkanpTZGFxeVdKTDM5Tks1Q19uZUtYQ1RUQzFCRjYyTGMtbmg4RkQwUzUzYmpaMllDRERqU21aVkg2cU8wYkI4eGZWWEpOYzdkZmtxTEw5enI5LVE?oc=5",
-      "desc": "TorchTPU is now open source: Run native PyTorch on TPUs Google Cloud",
-      "date": "2026-10-20T11:58:48+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aHJUcF83V0dSZzU4NUx0dVhKV21iNlVyVC1YdzRXT1F0MU8wRDkzSWtyOW0wV3NtNHBmNmJUMjZTMlFoTjMwUEF4cDZHSk1UTHgxSU55VG16MW1SRE1kWk1tOVE?oc=5",
-      "desc": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] shattered.io",
-      "date": "2026-10-20T08:17:58+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "link": "https://huggingface.co/blog/hf-torchtpu",
-      "desc": "",
-      "date": "2026-10-20T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "desc": "",
       "date": "2026-10-20T00:00:00+00:00",
       "source": "Hugging Face"
@@ -254,6 +268,13 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "desc": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "date": "2026-10-15T16:08:03+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "GitHub availability report: September 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
       "desc": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
@@ -268,6 +289,20 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "desc": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "date": "2026-10-14T02:00:14+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "desc": "",
+      "date": "2026-10-13T19:43:07+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
       "desc": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The Gi",
@@ -275,18 +310,49 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "desc": "",
+      "date": "2026-10-13T16:01:58+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "desc": "",
+      "date": "2026-10-13T16:01:52+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
       "desc": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
       "date": "2026-10-12T17:43:59+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "desc": "",
+      "date": "2026-10-06T19:57:04+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "desc": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "desc": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "source": "Google DeepMind"
     }
   ],
   "sources_failed": [
-    {
-      "source": "Google DeepMind",
-      "error": "not well-formed (invalid token): line 1, column 0"
-    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
