@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-28T08:46:21.870547+00:00",
+  "updated_at": "2026-10-29T08:42:24.846822+00:00",
   "items": [
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "desc": "",
+      "date": "2026-10-28T17:00:58+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "desc": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "date": "2026-10-28T16:09:28+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "desc": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "date": "2026-10-28T16:07:40+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "desc": "",
+      "date": "2026-10-28T14:58:17+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "desc": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "date": "2026-10-28T13:15:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "desc": "How AI might enter the org chart—beneath, beside, and between us.",
+      "date": "2026-10-28T10:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora",
+      "desc": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "date": "2026-10-28T09:30:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Benchmarking Coding Agents at Scale - Snowflake",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaDVqVV9kR3lWNThVWUlSMkd0b19qSVZrZGM1NDR3VGRjblI2SXRWSFl3cXBYNFlQblRVMTY5cTRhM0xyMEh1RVlIZXdTTHJRVlRhdkhOcVB3NnIzdEk1QkR2OURUTXdLcmFCSmQzYk8xaE5wZEs0Q1kxOGZZUQ?oc=5",
@@ -86,27 +135,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "desc": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "date": "2026-10-26T07:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "desc": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "date": "2026-10-26T07:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "desc": "Bringing fast and capable computer use to everyone",
-      "date": "2026-10-26T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "llm-d 1.0 Advances Open-Source AI Inference for Production Scale - The Fast Mode",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3NzbUhFNDZZb09FTk1ONnE1enJTUFNkOEkyRFhFdzl6WWlzSlN3UGdBVDQ0cmt4MUdsbFRadmhhb3R1UnRqdkhxQUdwamhKdFJKaTJMRzYwOFRpdjBQckVhaGtwNVdYUUIwUHJfMEhUMG5yTlY5ZWc2V3h2XzlPUnRuSzJTUnZjVUR3QlN2WjZnQkZtUm5PdjdvTU9GSG52TGwzVC0xQVc0LVB3T04xY2E4QzlrOWR6ZW1V?oc=5",
       "desc": "llm-d 1.0 Advances Open-Source AI Inference for Production Scale The Fast Mode",
@@ -121,10 +149,31 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUhibnRFbmFzN2xHNnZQTDB4Vnd2RmRJeXI2SGNVcHRqUEgxamVZbDhEZkU3N2RLWkRoR0RiRE5aRWlvUklhYmQ5WXNSUTJIeU5CZU5VUTdpdHBfNHFNSVNUM3BqUDRRR2JEcHZmeHZBLWVxTHQweTJfYUR0cFBNd1p0RlNFWEhnVVpOd3NvZw?oc=5",
-      "desc": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense Help Net Security",
-      "date": "2026-10-23T08:21:48+00:00",
+      "title": "Best Open Source LLM: 5 Models From $0.15 Input [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KVHBZWmdEb2x1dnYxZm92UWJCUlgtTjJJLU0xRWZhOS1aVGh2N25OT3RDdVdod0NQWVNtZXlKZWhiT1lnVEVBUGhXT20tNURPOGJDMmI3UjNFRHFLX1d0WVJrSWJycW4yRTBlSnFILTNkMGQtNlNQNmVqUDd4Zw?oc=5",
+      "desc": "Best Open Source LLM: 5 Models From $0.15 Input [2026] shattered.io",
+      "date": "2026-10-23T20:20:03+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "AI Code Review Tools for 2026: A Buyer's Guide - wiz.io",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DRXFPXzEyUGpDV3U5THhKd2xUbWZ5a2JUZVpmVVNNOXdvMzhpYmw1LTMzWk5iSkFkX1RGSlJ4RXRQZG0tejVtRWtRaU5XNGRQWmtTdW9VNDdscjFOdExwMFpuRFFmUGZRUkllTXFYTXNfRWMyQUNF?oc=5",
+      "desc": "AI Code Review Tools for 2026: A Buyer's Guide wiz.io",
+      "date": "2026-10-23T20:06:31+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "5 Free AI Coding Agents You Should Try in 2026 - KDnuggets",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QVE9NLV9ONW02WmM1ZWItNjZkSF8zWlhzSVVkd0dIc2FKd1h3Z0g3ckMxOUlLWG1ZUTluanlTdTktdzk0OUM5dDlxTnJhWjN4RllvbW50ckVOZ1lidE1peFFaOWhHOC1tOGlvQlhqa1B6QjhyejRkUXZxbFA?oc=5",
+      "desc": "5 Free AI Coding Agents You Should Try in 2026 KDnuggets",
+      "date": "2026-10-23T12:09:49+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "llm-d 1.0 Targets Lower AI Inference Costs ... - eeNews Europe",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0stdkJkakJfSkxmRnZQZV9EendzLUdRcmVrVmJfQzh4RldTZ083cVhNMEtyVVI4MURqUVY5X1BZZXA2ejlLR2tUS1pzLUN4eWMyT2NEMkVoa2NLeTdObTR3Q0tBalF4dUpVd0daYlFWd3dNbGNLbzR4am9zTDBBcQ?oc=5",
+      "desc": "llm-d 1.0 Targets Lower AI Inference Costs ... eeNews Europe",
+      "date": "2026-10-23T09:00:46+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -177,20 +226,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "AI Cuts Coding Time 52%, Floods Open Source With Slop [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JSFpNRmgzd0hGZ182SEtvVm00TERacWZkTlREWmVDbTVfRHkyTzB5bGRhVTQweHpBOVB0Rm5oWHFYTWZPdlJ4c1RiSE1ubVE3OHBKZ0dNVFVBWjdWMEFxTE11NENJZjJ3OHYwQWJzU1dXTF9ONlE?oc=5",
-      "desc": "AI Cuts Coding Time 52%, Floods Open Source With Slop [2026] https://tech-insider.org/",
-      "date": "2026-10-21T23:41:43+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "desc": "",
-      "date": "2026-10-21T18:26:30+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
       "desc": "",
@@ -217,20 +252,6 @@
       "desc": "",
       "date": "2026-10-21T14:58:18+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "5 Best GitHub Repositories for AI Agent Skills - KDnuggets",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTN09RQ2FIUmZDOWxiMDVwcWNYSUdXWUxZbUo1cEM0SldBeGdheGhLZnl4c09tanNjRWZnRGlFNTU0eTI0RlpkbVEzQWtMa2VldWpNa3hDWUp1Y1VndFR1Qm9KQjdnNDJTQVAyS3I2b1RqYldxVmFNTW93eEQ?oc=5",
-      "desc": "5 Best GitHub Repositories for AI Agent Skills KDnuggets",
-      "date": "2026-10-21T12:23:23+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81QlE4WFFHTUZDem9ZUEhYRG1BUEN0RFp5N0M1bmtYN2tJdlVFbWZhOGtRZnhsVkx0aThVeTBTTzlFaXAzZU1TS29FMW5mODUxbHZBV3BVbElrcmNJY0NfMW5McTA1OVE3N29UUWktbmpKZEE?oc=5",
-      "desc": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks SECURITY.COM",
-      "date": "2026-10-21T10:19:21+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
@@ -303,13 +324,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "desc": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The Gi",
-      "date": "2026-10-13T17:56:33+00:00",
-      "source": "GitHub Blog"
-    },
-    {
       "title": "Gemini 4 Argon for Robotics",
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "desc": "",
@@ -324,13 +338,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "desc": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
-      "date": "2026-10-12T17:43:59+00:00",
-      "source": "GitHub Blog"
-    },
-    {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "desc": "",
@@ -342,13 +349,6 @@
       "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "desc": "",
       "date": "2026-09-30T20:01:45+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "desc": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07+00:00",
       "source": "Google DeepMind"
     }
   ],
