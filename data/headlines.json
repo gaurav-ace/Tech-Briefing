@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-31T08:36:21.668830+00:00",
+  "updated_at": "2026-11-01T09:27:34.345257+00:00",
   "items": [
+    {
+      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
+      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
+      "date": "2026-10-30T21:18:36+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "nemotron-halloween",
       "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -107,6 +114,13 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aHJUcF83V0dSZzU4NUx0dVhKV21iNlVyVC1YdzRXT1F0MU8wRDkzSWtyOW0wV3NtNHBmNmJUMjZTMlFoTjMwUEF4cDZHSk1UTHgxSU55VG16MW1SRE1kWk1tOVE?oc=5",
+      "desc": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] shattered.io",
+      "date": "2026-10-28T22:15:40+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "Gemini 4 Carbon: Our next frontier model",
       "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "desc": "",
@@ -147,13 +161,6 @@
       "desc": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "date": "2026-10-28T09:30:00+00:00",
       "source": "OpenAI"
-    },
-    {
-      "title": "Best Local LLM Tools in 2026: Runtimes, Apps, and Agents - StorageReview.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BZEFBLTlNNTJ0NmJkbnpyWF9RMjB5aEtzaG92dU5jUTBVWjhMd3R6X196aEpwanlXN3NnMjZGOW5YU0hrSzBRUVhsUHZ5Q2dHcDBjeFJFZ2VrMVFuZVkw0gFkQVVfeXFMTkpEQno3Yy1ldEh5WEVZTlItMC1rZHVZN2R6cEM5NThWazZNdTBoN0tmNk5CYUxUSEd6bjdqbzc3SGRhMlVRaWUzelg4UTVtbWFDWmNmaUVVMXFfOG5fOEFfdzFJSw?oc=5",
-      "desc": "Best Local LLM Tools in 2026: Runtimes, Apps, and Agents StorageReview.com",
-      "date": "2026-10-28T07:00:00+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Benchmarking Coding Agents at Scale - Snowflake",
@@ -202,13 +209,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhoeXFkSXQ0QWVHVkZuSnk1NXVZX3dmSlNlTkpqcXp5NE54X2FDRm8xejFlZE5EODQ5QktEdW90eV9xLVl0eGxmUjJRNm55Q0xWZUFnVDRsNERhRkUwRDU1a09XQVBLczZpMGRWSi1WWGNiMVgxYVlBMGRtNnJ1VlBRcmVzbHBrNzJfanNDbFFMUGdiT2c?oc=5",
       "desc": "Building Your First AI Agent in Python with the OpenAI Agents SDK KDnuggets",
       "date": "2026-10-26T14:05:12+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "22 best AI coding tools for developers and beginners - Hostinger",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlbmZYSS1HeHotbVo3U1FTeXY5RWp5U3JCcjJ5cTFiNTJKSXBoQWp2R21DdXJZS1FvVjBKV01HXy05ZFYyWkR2OGdxSEt1bVlKSVFZT1Atc3F5VGZ2YnhMb2JRWW45Qy1jMjM3LQ?oc=5",
-      "desc": "22 best AI coding tools for developers and beginners Hostinger",
-      "date": "2026-10-26T07:00:00+00:00",
       "source": "AI agents & coding"
     },
     {
