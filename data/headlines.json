@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-01T09:27:34.345257+00:00",
+  "updated_at": "2026-11-02T09:42:31.358101+00:00",
   "items": [
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The ",
+      "date": "2026-11-01T21:36:00+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Fraud is Getting Faster, Thanks to AI - SD Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tdWNxUW1XSjE5NkhCTU9kOTY5SWRrRUhNdzhldUFxTUxlV1Q4VTQ4a0UyUmxjTXBuY1NObEY0bEpzZ1dTb1pzNGZYYTFGNDlJaVJ6eG5uOHBOSDAxcTc2ZXUwdTc2bnFZNVNqNUdQUWFfM0lYTFl2U241LUc4Zw?oc=5",
+      "desc": "Fraud is Getting Faster, Thanks to AI SD Times",
+      "date": "2026-10-31T23:36:11+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
@@ -37,13 +51,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies - Akron Beacon Journal",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYTd5Q0M3aVFZMV9LMG9LV3ZSRVdMaHJKZ3loaEFVU1FXNWJOdDZpcEFCNjNDcDVma1VBR2lQNDRLay1sYmt1U1RPTGw1WnVaSTlTZkpjWnctblp6YmVybV9vTnlPQ0dnQ1U1ZER3VU5lWTk2OWdpd082Y3dld0cxeXVHWDBma3l1VENMZ3g3NmpJRldFRjlucjBBQkxiOVlzZjhXUnJtT2J1cEdmOEVnLV9tWDVvMjlaUHJoY18yUXJsTE5Lb3pHbmNGQnhnV3pBRkxIbmlfYw?oc=5",
-      "desc": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies Akron Beacon Journal",
-      "date": "2026-10-29T23:28:14+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Secure code: LLMs improve, but orgs can’t rely on AI for AppSec - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWhpbEx2Um1TY2F4SE1ZOGRmT2EzR3A2eGZVR2kxRW15RFBXQjNWQWthdlc5bmsxSkEzalEzNHlyLU4zQnFBREZ1Zi1pcEFXN1RaRHZRMnhOZXgxNW5Hcml4eU5uZGhmVEg1WnhyUElCMWVtcWZUcWtZTHVwZXdTcE9WeG9jZkJkY3QwdjVNQUd4d3o2UjRGVUhneFNkQW9Ccmc?oc=5",
       "desc": "Secure code: LLMs improve, but orgs can’t rely on AI for AppSec TechTarget",
@@ -56,6 +63,13 @@
       "desc": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
       "date": "2026-10-29T17:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies - The Des Moines Register",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXdSbWE3dUJmYnBFd1VLOVZfSGhuMFU1NEs0RnJyQTMzbzU0YkRMcWZXZnRJc3ZhNE13Y1dCN2VmS0ptSXZwVi16UGtMMmFidEp1OTlwRE52RHlVZ3pCM1lJckV3ZnFwdWRPMDVvdzlkeUd0NWt3aFlMQlNKR3ZsUEtyaDhHUDJPSjI2alRfYm1kam40WEJ1SUJaenJSU1NuQWJWNnVIb1hnQmFiNWpFdndDQTIzUlZwVkRaRXR0SHdhblNvcWFxVTMwV1lPVm13RWQtZmtud3BfQjN4?oc=5",
+      "desc": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies The Des Moines Register",
+      "date": "2026-10-29T16:48:37+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -212,13 +226,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "llm-d 1.0 Advances Open-Source AI Inference for Production Scale - The Fast Mode",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3NzbUhFNDZZb09FTk1ONnE1enJTUFNkOEkyRFhFdzl6WWlzSlN3UGdBVDQ0cmt4MUdsbFRadmhhb3R1UnRqdkhxQUdwamhKdFJKaTJMRzYwOFRpdjBQckVhaGtwNVdYUUIwUHJfMEhUMG5yTlY5ZWc2V3h2XzlPUnRuSzJTUnZjVUR3QlN2WjZnQkZtUm5PdjdvTU9GSG52TGwzVC0xQVc0LVB3T04xY2E4QzlrOWR6ZW1V?oc=5",
-      "desc": "llm-d 1.0 Advances Open-Source AI Inference for Production Scale The Fast Mode",
-      "date": "2026-10-25T23:30:29+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "link": "https://huggingface.co/blog/torch-neuronx-model-support",
       "desc": "",
@@ -300,13 +307,6 @@
       "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
       "desc": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
       "date": "2026-10-14T20:01:35+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "desc": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appe",
-      "date": "2026-10-14T19:11:33+00:00",
       "source": "GitHub Blog"
     },
     {
