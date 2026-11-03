@@ -1,19 +1,75 @@
 {
-  "updated_at": "2026-11-02T09:42:31.358101+00:00",
+  "updated_at": "2026-11-03T09:46:43.503128+00:00",
   "items": [
+    {
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "desc": "",
+      "date": "2026-11-03T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "desc": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02T18:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "desc": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02T18:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "desc": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "date": "2026-11-02T15:30:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "desc": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "date": "2026-11-02T15:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "DeepSeek Super-Agent Is MIT Open Source: $0 to Use [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekt3Slk4MTRyRFdvQzhQdUhfUElDREh0LVNaVGtlWjhvZHdXNXMzdDhNajZOZWx0WDBseWRFV1Z3bU84MkhNUW5wWUF4UXVmSVo0QWxaRzJVUDlJQ0dIeGJNNVdoZXRONE9hWmVSTUhHMk1vN2VBNk8yOUxrcWNpdDBJOWp1M1NheGlSWWtNaWhIZw?oc=5",
+      "desc": "DeepSeek Super-Agent Is MIT Open Source: $0 to Use [2026] https://tech-insider.org/",
+      "date": "2026-11-02T09:48:33+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "desc": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "date": "2026-11-02T09:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "desc": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "date": "2026-11-02T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "desc": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "date": "2026-11-02T00:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Game Off 2026: The theme is SHIFT",
       "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
       "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The ",
       "date": "2026-11-01T21:36:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Fraud is Getting Faster, Thanks to AI - SD Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tdWNxUW1XSjE5NkhCTU9kOTY5SWRrRUhNdzhldUFxTUxlV1Q4VTQ4a0UyUmxjTXBuY1NObEY0bEpzZ1dTb1pzNGZYYTFGNDlJaVJ6eG5uOHBOSDAxcTc2ZXUwdTc2bnFZNVNqNUdQUWFfM0lYTFl2U241LUc4Zw?oc=5",
-      "desc": "Fraud is Getting Faster, Thanks to AI SD Times",
-      "date": "2026-10-31T23:36:11+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
@@ -23,11 +79,32 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHJrY05HcXR3TFd0YVF4MTVHQ3lvRDk0YnFDbzFCWDBqV0UyTWwxQXJVaUtSYTRIcFpPRDRLeE1lRjVrdVFRdndlQlpZWElTTmxOTE5FeDRoVHJIWFhPaFZvcTc4ODFHMEYxN0EyeFVpRG9MLW9yVnN0bmdkcl9PWkRYZHdqY3hMdHFaNjlkWnpqRFpDaFh5NGZPUzZ2a3FaSllrOHRpV25ORFItVlE?oc=5",
+      "desc": "ARTEX and Friends: Enter Agentic Offensive Frameworks Google Cloud",
+      "date": "2026-10-30T21:07:16+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "nemotron-halloween",
       "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "desc": "",
       "date": "2026-10-30T17:57:24+00:00",
       "source": "Hugging Face"
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30T14:18:30+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "AI Security Solutions in 2026: Tools To Secure AI - wiz.io",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaFVrZm1JRWEwRk5Vc2lUS2xyM1JWTlVaWGxjXzJRWXpYNTlYd1A1SnF4TmJORm9JS0VkYzhqZ2xxLU9DdjhJaXBoQUlUV0NGRzYzV29sNlVpeVBCZFlpbDcxSmJ1VHllTmdBcw?oc=5",
+      "desc": "AI Security Solutions in 2026: Tools To Secure AI wiz.io",
+      "date": "2026-10-30T13:09:31+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -51,6 +128,13 @@
       "source": "OpenAI"
     },
     {
+      "title": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies - Akron Beacon Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYTd5Q0M3aVFZMV9LMG9LV3ZSRVdMaHJKZ3loaEFVU1FXNWJOdDZpcEFCNjNDcDVma1VBR2lQNDRLay1sYmt1U1RPTGw1WnVaSTlTZkpjWnctblp6YmVybV9vTnlPQ0dnQ1U1ZER3VU5lWTk2OWdpd082Y3dld0cxeXVHWDBma3l1VENMZ3g3NmpJRldFRjlucjBBQkxiOVlzZjhXUnJtT2J1cEdmOEVnLV9tWDVvMjlaUHJoY18yUXJsTE5Lb3pHbmNGQnhnV3pBRkxIbmlfYw?oc=5",
+      "desc": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies Akron Beacon Journal",
+      "date": "2026-10-29T23:28:14+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "Secure code: LLMs improve, but orgs can’t rely on AI for AppSec - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWhpbEx2Um1TY2F4SE1ZOGRmT2EzR3A2eGZVR2kxRW15RFBXQjNWQWthdlc5bmsxSkEzalEzNHlyLU4zQnFBREZ1Zi1pcEFXN1RaRHZRMnhOZXgxNW5Hcml4eU5uZGhmVEg1WnhyUElCMWVtcWZUcWtZTHVwZXdTcE9WeG9jZkJkY3QwdjVNQUd4d3o2UjRGVUhneFNkQW9Ccmc?oc=5",
       "desc": "Secure code: LLMs improve, but orgs can’t rely on AI for AppSec TechTarget",
@@ -58,17 +142,10 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "desc": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "date": "2026-10-29T17:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies - The Des Moines Register",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXdSbWE3dUJmYnBFd1VLOVZfSGhuMFU1NEs0RnJyQTMzbzU0YkRMcWZXZnRJc3ZhNE13Y1dCN2VmS0ptSXZwVi16UGtMMmFidEp1OTlwRE52RHlVZ3pCM1lJckV3ZnFwdWRPMDVvdzlkeUd0NWt3aFlMQlNKR3ZsUEtyaDhHUDJPSjI2alRfYm1kam40WEJ1SUJaenJSU1NuQWJWNnVIb1hnQmFiNWpFdndDQTIzUlZwVkRaRXR0SHdhblNvcWFxVTMwV1lPVm13RWQtZmtud3BfQjN4?oc=5",
-      "desc": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies The Des Moines Register",
-      "date": "2026-10-29T16:48:37+00:00",
+      "title": "LibreOffice’s no-AI message meets LLM-assisted code contributions - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1lrYWY5dmE3TmlyNndkeExsYnVNd1Z2RHVYcEtxYmFBQW8zQVduaFJvSl9sSUh1UGYwY01QbTdMNFNMa1RpRFZxbTB3MXFuZG1Yel9EQk5ndi1UVHRVdnp4aEpnRlR6ajZSRm5PVlNRZkpSWC10T2FuenRYS0VHVGU4WDA3NEZXVk9iXzRISQ?oc=5",
+      "desc": "LibreOffice’s no-AI message meets LLM-assisted code contributions Mezha.net",
+      "date": "2026-10-29T14:09:33+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -84,27 +161,6 @@
       "desc": "LibreOffice's 'no AI' stance meets LLM-assisted code The Register",
       "date": "2026-10-29T11:29:00+00:00",
       "source": "AI agents & coding"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "desc": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "date": "2026-10-29T09:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "desc": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "date": "2026-10-29T07:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "link": "https://openai.com/index/credit-saison",
-      "desc": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "date": "2026-10-29T00:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
@@ -128,13 +184,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aHJUcF83V0dSZzU4NUx0dVhKV21iNlVyVC1YdzRXT1F0MU8wRDkzSWtyOW0wV3NtNHBmNmJUMjZTMlFoTjMwUEF4cDZHSk1UTHgxSU55VG16MW1SRE1kWk1tOVE?oc=5",
-      "desc": "Cloudflare AI Gateway: Cut LLM Costs in 12 Steps [2026] shattered.io",
-      "date": "2026-10-28T22:15:40+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Gemini 4 Carbon: Our next frontier model",
       "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "desc": "",
@@ -156,25 +205,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "desc": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "date": "2026-10-28T13:15:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "The future of the firm",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "desc": "How AI might enter the org chart—beneath, beside, and between us.",
-      "date": "2026-10-28T10:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora",
-      "desc": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "date": "2026-10-28T09:30:00+00:00",
-      "source": "OpenAI"
+      "title": "Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use Them - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
+      "desc": "Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use Them Fello AI",
+      "date": "2026-10-28T07:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Benchmarking Coding Agents at Scale - Snowflake",
@@ -205,27 +240,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "Linus Torvalds is using AI to add to the Linux kernel, and his approach to the tech is the healthiest - XDA",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdmZjaE5tamp2VHE0eVk4ZzFjUEJfQ0NVSncxaFFSenlZLTk5ZVp2aDh6bXFFV1dhbFY3b1NWVE1tVVhPSE5DQlpsTFNjZ1lYb284QU1ONkRjUmRfcnBWbnJGS2gtejFEeVBxamhlbGdfaWJsQldURngtamtCaFgxaXNLS2V0emF4UmpkR043OXQyeWNoODEyME9NeUQ1S1lPYUVWTnRfVUxTYngtd2FfaGxEazdTZW0tazhyZkhlM09TbE9vVDBjY2Q4eW4?oc=5",
-      "desc": "Linus Torvalds is using AI to add to the Linux kernel, and his approach to the tech is the healthiest XDA",
-      "date": "2026-10-26T17:30:21+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Can AI coding agents rebuild biological AI tools from a paper? - The AI Security Institute (AISI)",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHh6OGlfeVQ3VEZpRFNQV0xyVjdpRUJEWklDVXpHWnJwWHoyM0d4MDk2aEdOTWotRHNXOU9ZR0huYkZjSjdvUVUwQnJQQkwtQXBCME12U2FUTXNTcTBJVDMtOTFGRVR3a3NRSnoxSE8wNW03cEtoSG5sR25hYWgyNURiTmQ4dXVRU25QTW9JUUdMOERO?oc=5",
-      "desc": "Can AI coding agents rebuild biological AI tools from a paper? The AI Security Institute (AISI)",
-      "date": "2026-10-26T15:25:55+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK - KDnuggets",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhoeXFkSXQ0QWVHVkZuSnk1NXVZX3dmSlNlTkpqcXp5NE54X2FDRm8xejFlZE5EODQ5QktEdW90eV9xLVl0eGxmUjJRNm55Q0xWZUFnVDRsNERhRkUwRDU1a09XQVBLczZpMGRWSi1WWGNiMVgxYVlBMGRtNnJ1VlBRcmVzbHBrNzJfanNDbFFMUGdiT2c?oc=5",
-      "desc": "Building Your First AI Agent in Python with the OpenAI Agents SDK KDnuggets",
-      "date": "2026-10-26T14:05:12+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "link": "https://huggingface.co/blog/torch-neuronx-model-support",
       "desc": "",
@@ -252,13 +266,6 @@
       "desc": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
       "date": "2026-10-22T14:30:24+00:00",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "desc": "",
-      "date": "2026-10-22T07:51:31+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "The bridge to agent-scale Git infrastructure",
@@ -342,13 +349,6 @@
       "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "desc": "",
       "date": "2026-10-06T19:57:04+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "desc": "",
-      "date": "2026-09-30T20:01:45+00:00",
       "source": "Google DeepMind"
     }
   ],
