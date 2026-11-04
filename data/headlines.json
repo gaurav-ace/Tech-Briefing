@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-11-03T09:46:43.503128+00:00",
+  "updated_at": "2026-11-04T09:33:33.411426+00:00",
   "items": [
+    {
+      "title": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnhheS1kcElPZGZXVE1hV2NfbGhIekRlQlA4SURocmw3MnRxdnRrVjRiTG95ZGhKT2IzU1FtZzdjMGRfbGtTNnV1RGRkb1JkOGNkNzZTRVlab1JMZGo4czJPQlhuT25QdmN1N3lkZlVPZWM3VjVJZUpESExmQXV3ZTJ5bmloRDhEenc0U2t1a2dVdENHQk83TWxpUkJIMy1NSE9XYjF3?oc=5",
+      "desc": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why HackerNoon",
+      "date": "2026-11-03T23:05:04+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack - CMSWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUhiLTV2aExUQ0lNU19EdzVsb0h5X3VxeHpRODNLZVBjd1lnZGUtaFRWV2lRNUIyei1fUGp2TkZVeENsWDlDaHJkZ0Z5TmotemRrU2ZqbWgtRzl3RVRqM0k5eVh4SHNKRWlGeTE3YlpNU05CZ0VrMHhwTmNZdXA0XzFKaTFsOHJoSXVhLVk3cU95blhfZk5OdQ?oc=5",
+      "desc": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack CMSWire",
+      "date": "2026-11-03T22:53:54+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "desc": "",
+      "date": "2026-11-03T17:15:21+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "desc": "",
+      "date": "2026-11-03T16:35:36+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "date": "2026-11-03T16:00:00+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "2026: The State of Enterprise AI - Menlo Ventures",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWWFrbk42bDE3LTNTV0hrVDF4czhRVTZ6N3dFMjBGY01RWGJkeWVQNnRIVTdjbHVGaVFVQmxaTkZ0UnEycXYyOUZPSXJHdHc2V3dhZFlkX1BDa1hiNVk0a2lOX0xfZ2RuQXEzNUJYM1dNdw?oc=5",
+      "desc": "2026: The State of Enterprise AI Menlo Ventures",
+      "date": "2026-11-03T14:12:34+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "desc": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "date": "2026-11-03T12:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "AI Guardrails for LLM Apps: 12 Steps, 75 Min [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fWUh6SGVvOHk2WGVtZ0JLcjdDaC1HN2dsckdxeGFPMUowQTNGTDhUbnpLRnIyZndkU3NPNlYtNW1fTUk4UkFuclNiODNMYnFmV1pHSEpaRVh3blZPR2VLZWVXRHpvX2phOEdVZGVQSEdmQQ?oc=5",
+      "desc": "AI Guardrails for LLM Apps: 12 Steps, 75 Min [2026] shattered.io",
+      "date": "2026-11-03T10:32:44+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "desc": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "desc": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "desc": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "date": "2026-11-03T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "link": "https://huggingface.co/blog/cwe-bench",
+      "desc": "",
+      "date": "2026-11-03T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
     {
       "title": "Transformers Model Integration Contracts",
       "link": "https://huggingface.co/blog/transformers-mic",
@@ -37,13 +121,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "DeepSeek Super-Agent Is MIT Open Source: $0 to Use [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekt3Slk4MTRyRFdvQzhQdUhfUElDREh0LVNaVGtlWjhvZHdXNXMzdDhNajZOZWx0WDBseWRFV1Z3bU84MkhNUW5wWUF4UXVmSVo0QWxaRzJVUDlJQ0dIeGJNNVdoZXRONE9hWmVSTUhHMk1vN2VBNk8yOUxrcWNpdDBJOWp1M1NheGlSWWtNaWhIZw?oc=5",
-      "desc": "DeepSeek Super-Agent Is MIT Open Source: $0 to Use [2026] https://tech-insider.org/",
-      "date": "2026-11-02T09:48:33+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "LifeVal",
       "link": "https://openai.com/index/lifeval",
       "desc": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
@@ -54,13 +131,6 @@
       "title": "Qodo builds context into AI code review with Codex",
       "link": "https://openai.com/index/qodo-codex-plugin",
       "desc": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "date": "2026-11-02T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
-      "desc": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "date": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI"
     },
@@ -79,25 +149,11 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHJrY05HcXR3TFd0YVF4MTVHQ3lvRDk0YnFDbzFCWDBqV0UyTWwxQXJVaUtSYTRIcFpPRDRLeE1lRjVrdVFRdndlQlpZWElTTmxOTE5FeDRoVHJIWFhPaFZvcTc4ODFHMEYxN0EyeFVpRG9MLW9yVnN0bmdkcl9PWkRYZHdqY3hMdHFaNjlkWnpqRFpDaFh5NGZPUzZ2a3FaSllrOHRpV25ORFItVlE?oc=5",
-      "desc": "ARTEX and Friends: Enter Agentic Offensive Frameworks Google Cloud",
-      "date": "2026-10-30T21:07:16+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "nemotron-halloween",
       "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "desc": "",
       "date": "2026-10-30T17:57:24+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30T14:18:30+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "AI Security Solutions in 2026: Tools To Secure AI - wiz.io",
@@ -107,25 +163,11 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "desc": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "date": "2026-10-30T09:30:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "desc": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "date": "2026-10-30T09:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "desc": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "date": "2026-10-30T00:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Top 13 Open-Source Agentic AI Frameworks - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NR2p3cU1wUktvV19FWUhQY3hSRjhZYks1TmNiTmZ4NkNNcEs0MEJOVEdvYXpRTmdMZTk0VmdJYWltM2gxWXpOamN6VHVFa0UtaXVn?oc=5",
+      "desc": "Top 13 Open-Source Agentic AI Frameworks AIMultiple",
+      "date": "2026-10-30T07:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Redlio Labs Brings AI Features to Custom Software for Mid-Size and Large Companies - Akron Beacon Journal",
@@ -139,13 +181,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWhpbEx2Um1TY2F4SE1ZOGRmT2EzR3A2eGZVR2kxRW15RFBXQjNWQWthdlc5bmsxSkEzalEzNHlyLU4zQnFBREZ1Zi1pcEFXN1RaRHZRMnhOZXgxNW5Hcml4eU5uZGhmVEg1WnhyUElCMWVtcWZUcWtZTHVwZXdTcE9WeG9jZkJkY3QwdjVNQUd4d3o2UjRGVUhneFNkQW9Ccmc?oc=5",
       "desc": "Secure code: LLMs improve, but orgs can’t rely on AI for AppSec TechTarget",
       "date": "2026-10-29T21:37:36+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "LibreOffice’s no-AI message meets LLM-assisted code contributions - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1lrYWY5dmE3TmlyNndkeExsYnVNd1Z2RHVYcEtxYmFBQW8zQVduaFJvSl9sSUh1UGYwY01QbTdMNFNMa1RpRFZxbTB3MXFuZG1Yel9EQk5ndi1UVHRVdnp4aEpnRlR6ajZSRm5PVlNRZkpSWC10T2FuenRYS0VHVGU4WDA3NEZXVk9iXzRISQ?oc=5",
-      "desc": "LibreOffice’s no-AI message meets LLM-assisted code contributions Mezha.net",
-      "date": "2026-10-29T14:09:33+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -184,13 +219,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "desc": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
       "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
       "desc": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
@@ -205,52 +233,10 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use Them - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
-      "desc": "Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use Them Fello AI",
-      "date": "2026-10-28T07:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Benchmarking Coding Agents at Scale - Snowflake",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaDVqVV9kR3lWNThVWUlSMkd0b19qSVZrZGM1NDR3VGRjblI2SXRWSFl3cXBYNFlQblRVMTY5cTRhM0xyMEh1RVlIZXdTTHJRVlRhdkhOcVB3NnIzdEk1QkR2OURUTXdLcmFCSmQzYk8xaE5wZEs0Q1kxOGZZUQ?oc=5",
-      "desc": "Benchmarking Coding Agents at Scale Snowflake",
-      "date": "2026-10-27T22:54:24+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Build specialized multimodal models with LFM3",
       "link": "https://huggingface.co/blog/LiquidAI/lfm3",
       "desc": "",
       "date": "2026-10-27T17:16:52+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "link": "https://huggingface.co/blog/allenai/novelty-bench",
-      "desc": "",
-      "date": "2026-10-27T16:12:42+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "desc": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "date": "2026-10-27T16:01:38+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "desc": "",
-      "date": "2026-10-23T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "desc": "",
-      "date": "2026-10-22T22:24:34+00:00",
       "source": "Hugging Face"
     },
     {
@@ -259,13 +245,6 @@
       "desc": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared firs",
       "date": "2026-10-22T17:21:30+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "desc": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "date": "2026-10-22T14:30:24+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "The bridge to agent-scale Git infrastructure",
@@ -301,58 +280,13 @@
       "desc": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
       "date": "2026-10-15T18:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "desc": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "date": "2026-10-15T16:08:03+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "GitHub availability report: September 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-      "desc": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
-      "date": "2026-10-14T20:01:35+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "desc": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "desc": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "desc": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "desc": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "desc": "",
-      "date": "2026-10-06T19:57:04+00:00",
-      "source": "Google DeepMind"
     }
   ],
   "sources_failed": [
+    {
+      "source": "Google DeepMind",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
