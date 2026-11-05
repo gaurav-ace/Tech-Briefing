@@ -1,19 +1,54 @@
 {
-  "updated_at": "2026-11-04T09:33:33.411426+00:00",
+  "updated_at": "2026-11-05T09:40:18.627732+00:00",
   "items": [
     {
-      "title": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnhheS1kcElPZGZXVE1hV2NfbGhIekRlQlA4SURocmw3MnRxdnRrVjRiTG95ZGhKT2IzU1FtZzdjMGRfbGtTNnV1RGRkb1JkOGNkNzZTRVlab1JMZGo4czJPQlhuT25QdmN1N3lkZlVPZWM3VjVJZUpESExmQXV3ZTJ5bmloRDhEenc0U2t1a2dVdENHQk83TWxpUkJIMy1NSE9XYjF3?oc=5",
-      "desc": "AI Agents Pick the Wrong Tool More Often as You Add Tools, and Research Shows Why HackerNoon",
-      "date": "2026-11-03T23:05:04+00:00",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "desc": "",
+      "date": "2026-11-04T17:50:10+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "desc": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "date": "2026-11-04T14:30:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Revolut Cuts AI Coding Costs 10x With GLM-5.1 [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QZ0NZSkZHeDhtWm1VU3QzMGhJNDVqVTQ4aGxYWW96UmRaVUNSdzlmTURidy1BTDNpVVNEYjFxOWRKejhfb1NMdndXZHE0Vm9ucUlkZ3FSNm5ldDZNNElhakVLbGFaeUVndmpuYzVaZ3lSV3JEOHhRT0Jn?oc=5",
+      "desc": "Revolut Cuts AI Coding Costs 10x With GLM-5.1 [2026] shattered.io",
+      "date": "2026-11-04T11:37:53+00:00",
       "source": "AI agents & coding"
     },
     {
-      "title": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack - CMSWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUhiLTV2aExUQ0lNU19EdzVsb0h5X3VxeHpRODNLZVBjd1lnZGUtaFRWV2lRNUIyei1fUGp2TkZVeENsWDlDaHJkZ0Z5TmotemRrU2ZqbWgtRzl3RVRqM0k5eVh4SHNKRWlGeTE3YlpNU05CZ0VrMHhwTmNZdXA0XzFKaTFsOHJoSXVhLVk3cU95blhfZk5OdQ?oc=5",
-      "desc": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack CMSWire",
-      "date": "2026-11-03T22:53:54+00:00",
-      "source": "AI agents & coding"
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "desc": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "date": "2026-11-04T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "desc": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "date": "2026-11-04T07:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "desc": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "date": "2026-11-04T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "desc": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "date": "2026-11-04T00:00:00+00:00",
+      "source": "OpenAI"
     },
     {
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -51,13 +86,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "AI Guardrails for LLM Apps: 12 Steps, 75 Min [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fWUh6SGVvOHk2WGVtZ0JLcjdDaC1HN2dsckdxeGFPMUowQTNGTDhUbnpLRnIyZndkU3NPNlYtNW1fTUk4UkFuclNiODNMYnFmV1pHSEpaRVh3blZPR2VLZWVXRHpvX2phOEdVZGVQSEdmQQ?oc=5",
-      "desc": "AI Guardrails for LLM Apps: 12 Steps, 75 Min [2026] shattered.io",
-      "date": "2026-11-03T10:32:44+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "How Cisco defends at machine speed with OpenAI",
       "link": "https://openai.com/index/cisco-cyber",
       "desc": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
@@ -70,6 +98,20 @@
       "desc": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "date": "2026-11-03T08:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "What Google Cloud announced in AI this month – and how it helps you - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTlTcHU4TGF0MU1hc295WDJGYUg1R0ZWelhGUlpCbkpYUmFpeURrMjF6OGQ5NDhQV0RsR3VSSjJtUmkyM00wc25XZ2drM0dJbXJ5RlYxZVMwd1RnTnNuOHRRZU9GZGUxcTU3eXk3M2hHNVRZc2xyRnZOZzNjOGJUUC1SOE9QU2VJVHB6dDUyaHRHenhfei1FV2drUFFELXNhc3pRelp3?oc=5",
+      "desc": "What Google Cloud announced in AI this month – and how it helps you Google Cloud",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack - CMSWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUhiLTV2aExUQ0lNU19EdzVsb0h5X3VxeHpRODNLZVBjd1lnZGUtaFRWV2lRNUIyei1fUGp2TkZVeENsWDlDaHJkZ0Z5TmotemRrU2ZqbWgtRzl3RVRqM0k5eVh4SHNKRWlGeTE3YlpNU05CZ0VrMHhwTmNZdXA0XzFKaTFsOHJoSXVhLVk3cU95blhfZk5OdQ?oc=5",
+      "desc": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack CMSWire",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
@@ -93,45 +135,10 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "desc": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "date": "2026-11-02T18:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "desc": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "date": "2026-11-02T18:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Scaling Git at OpenAI",
       "link": "https://openai.com/index/scaling-git-at-openai",
       "desc": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "date": "2026-11-02T15:30:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "desc": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "date": "2026-11-02T15:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "LifeVal",
-      "link": "https://openai.com/index/lifeval",
-      "desc": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "date": "2026-11-02T09:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "desc": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "date": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI"
     },
     {
@@ -231,13 +238,6 @@
       "desc": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
       "date": "2026-10-28T16:07:40+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "desc": "",
-      "date": "2026-10-27T17:16:52+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "How bug bounty sharpens one researcher’s security skills",
