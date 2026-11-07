@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-06T09:35:18.986041+00:00",
+  "updated_at": "2026-11-07T08:59:05.440575+00:00",
   "items": [
+    {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agenti",
+      "date": "2026-11-06T22:15:59+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "desc": "",
+      "date": "2026-11-06T14:00:48+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "desc": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "date": "2026-11-06T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "desc": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "date": "2026-11-06T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "desc": "",
+      "date": "2026-11-06T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
     {
       "title": "Inside GitHub’s new Git storage architecture",
       "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
@@ -44,10 +79,10 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Cognitum One Unveils MetaLLM, Self-Improving Model Control Plane for AI Agent Swarms - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FPdjMxeElKM0hMZ2JOSHRUUzFpUE00djFUMjhjSE9QMXNXMDdQSER2T0ROMkc1Z0puc1EwVm9aRUVkR1d5eU5obWJBREZzaXJsWXFmckZNWDdHLWJuVDN6eHJEdjQ3b1p5b2lSQWpyeFJiemkyUWZXLThwdHVIM2R5cWJBWmVLOFc5alRWb05UaHhxanprX25YaEloQQ?oc=5",
-      "desc": "Cognitum One Unveils MetaLLM, Self-Improving Model Control Plane for AI Agent Swarms Yahoo Finance",
-      "date": "2026-11-05T12:00:00+00:00",
+      "title": "Revolut turns to self-hosted AI to cut coding costs tenfold over Claude - Computing UK",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHJ2VTN1OWFmUGJFNjB0eGJwVVVCdWxtT0lRcWxFczhvQ1QxVUxkczRNcVZKaW9HVFo2UXFNMGtBRl9ScDFINi1KWFZCcU5TSWducGhKUzFHaU1yOFAtbkZfVm9QUmhxTHpTc0x6M1pXSG11V2Yya0NTWjZTZG1uT2puUUtaODFFWDVIaHA2NVJLQ09WSTBPTnl5ZFFGVU1tNHViVXVzOHlRMWJlN19Xc0ln?oc=5",
+      "desc": "Revolut turns to self-hosted AI to cut coding costs tenfold over Claude Computing UK",
+      "date": "2026-11-05T09:50:11+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -114,32 +149,18 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "llm-d 1.0 aims to cut AI inference costs for firms - IT Brief UK",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSS1OUnpEdnp2eTBlZTNDRVo2TVc1SjdYbEZTZk1WU0RFa05OZEFzcEFYRjg5OTJERzhCREVqSDRwTWgtRE5sMHRncXpFLWRtSnFPU3ZPeXM2Sm42LTRERlFIc2RoVDRiUFA0TWt0WGJEUkJpWWR5Q2tOYmtFcnM3X01JbWs?oc=5",
-      "desc": "llm-d 1.0 aims to cut AI inference costs for firms IT Brief UK",
-      "date": "2026-11-04T08:15:00+00:00",
+      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
+      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
+      "date": "2026-11-04T08:00:00+00:00",
       "source": "AI agents & coding"
     },
     {
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "desc": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "date": "2026-11-04T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "desc": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "date": "2026-11-04T07:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "desc": "",
-      "date": "2026-11-03T17:15:21+00:00",
-      "source": "Hugging Face"
+      "title": "BOSSAI: Inside the AI attack mesh that targeted Taiwan’s emergency services - Acronis",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcU8zeklfbzdteTNiMUZ3cUxfVGo3Uk5heHc5TWpHWWpYMU9CR3pMeGo1cVNOREp0VFphMlNYVEpPQ0lKNFUzQ0RJNUZySjBtZk91Yjc0SFN1ZXMzTEdHZm92eXJkMWgtLXhfSElWXzR4NVJFZ3FEOFFTWUgzX0hhaGFwTWt0b1BlWnNoY2lfY1pMdEkxbzFRQ2VLNkFkWmhQdS0wZDF6ejNvR0F4UG1JTw?oc=5",
+      "desc": "BOSSAI: Inside the AI attack mesh that targeted Taiwan’s emergency services Acronis",
+      "date": "2026-11-04T03:55:18+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -191,6 +212,13 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "5 Agentic AI Design Patterns & Real-World Examples - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiaG1hR2lZaHAxQ193YzYtZ2ZlWGNmYktjb3FzTjZZc0RhQ3RVUHBTcy1meTJ4eV8yTzJNTTZwRkh2eVRYM1E2aTI0eXFYUnVKVFlQanBTM3RpekFwSVE?oc=5",
+      "desc": "5 Agentic AI Design Patterns & Real-World Examples AIMultiple",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "Progress on provable inference for large language models - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
       "desc": "Progress on provable inference for large language models Anthropic",
@@ -219,25 +247,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
-      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
-      "date": "2026-10-30T21:18:36+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Speeding up planning decisions with AI",
       "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
       "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
       "date": "2026-10-30T14:18:30+00:00",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "AI Security Solutions in 2026: Tools To Secure AI - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaFVrZm1JRWEwRk5Vc2lUS2xyM1JWTlVaWGxjXzJRWXpYNTlYd1A1SnF4TmJORm9JS0VkYzhqZ2xxLU9DdjhJaXBoQUlUV0NGRzYzV29sNlVpeVBCZFlpbDcxSmJ1VHllTmdBcw?oc=5",
-      "desc": "AI Security Solutions in 2026: Tools To Secure AI wiz.io",
-      "date": "2026-10-30T13:09:31+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -249,13 +263,6 @@
     {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "link": "https://huggingface.co/blog/announcing-project-protostar",
-      "desc": "",
-      "date": "2026-10-29T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "link": "https://huggingface.co/blog/mistral-large4",
       "desc": "",
       "date": "2026-10-29T00:00:00+00:00",
       "source": "Hugging Face"
@@ -314,13 +321,6 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
       "date": "2026-10-20T16:05:03+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "desc": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "date": "2026-10-19T18:47:22+00:00",
       "source": "GitHub Blog"
     },
     {
