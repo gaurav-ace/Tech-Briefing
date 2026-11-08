@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:59:05.440575+00:00",
+  "updated_at": "2026-11-08T09:15:13.696841+00:00",
   "items": [
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -58,13 +58,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "desc": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Australian universities are creating AI-native graduates",
       "link": "https://openai.com/index/australian-universities-ai-native-graduates",
       "desc": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -98,6 +91,13 @@
       "desc": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
       "date": "2026-11-05T08:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Top 13 Open-Source Agentic AI Frameworks - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NR2p3cU1wUktvV19FWUhQY3hSRjhZYks1TmNiTmZ4NkNNcEs0MEJOVEdvYXpRTmdMZTk0VmdJYWltM2gxWXpOamN6VHVFa0UtaXVn?oc=5",
+      "desc": "Top 13 Open-Source Agentic AI Frameworks AIMultiple",
+      "date": "2026-11-05T08:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Setting a new standard for responsible AI infrastructure",
@@ -135,6 +135,13 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNckI2RW5SeGRMQmt0NlVlRUhPT3lLdFRLVldSelVscGg4eWZIYmtDWkp4STlmbXJVRWFhcWRpV0tOZ3ZwSTJ6TmtxY2tNclF6dnJUZnVCdWt3cVB4N0tLc0lzbFZLUDRMMWJzaUNWbHVNZkpMTDJ4S0gtZ1o3bU5XS3lCeHVZVW9YNnRmVG5Udzg1d253aWdEVS16QnNqcnkwUE9LMUItaGJjY1V4TkI3bmp5NlR4bG4xTjljTWFzWWF0RGpHY0VMQ1RpTjNMRWtDWnl4a3RuOXRSaDZ0allHR04ybUV3cXM?oc=5",
+      "desc": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code Amazon Web Services (AWS)",
+      "date": "2026-11-04T16:30:40+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "link": "https://openai.com/index/openai-to-acquire-pierre",
       "desc": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
@@ -161,13 +168,6 @@
       "desc": "BOSSAI: Inside the AI attack mesh that targeted Taiwan’s emergency services Acronis",
       "date": "2026-11-04T03:55:18+00:00",
       "source": "AI agents & coding"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -205,20 +205,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack - CMSWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUhiLTV2aExUQ0lNU19EdzVsb0h5X3VxeHpRODNLZVBjd1lnZGUtaFRWV2lRNUIyei1fUGp2TkZVeENsWDlDaHJkZ0Z5TmotemRrU2ZqbWgtRzl3RVRqM0k5eVh4SHNKRWlGeTE3YlpNU05CZ0VrMHhwTmNZdXA0XzFKaTFsOHJoSXVhLVk3cU95blhfZk5OdQ?oc=5",
-      "desc": "8 LLM Frameworks to Watch as Microsoft and OpenAI Reshape the Stack CMSWire",
-      "date": "2026-11-03T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "5 Agentic AI Design Patterns & Real-World Examples - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiaG1hR2lZaHAxQ193YzYtZ2ZlWGNmYktjb3FzTjZZc0RhQ3RVUHBTcy1meTJ4eV8yTzJNTTZwRkh2eVRYM1E2aTI0eXFYUnVKVFlQanBTM3RpekFwSVE?oc=5",
-      "desc": "5 Agentic AI Design Patterns & Real-World Examples AIMultiple",
-      "date": "2026-11-03T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Progress on provable inference for large language models - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
       "desc": "Progress on provable inference for large language models Anthropic",
@@ -247,13 +233,6 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30T14:18:30+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "desc": "",
@@ -266,13 +245,6 @@
       "desc": "",
       "date": "2026-10-29T00:00:00+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "desc": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -289,25 +261,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "desc": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "date": "2026-10-27T16:01:38+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "desc": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared firs",
       "date": "2026-10-22T17:21:30+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "desc": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "date": "2026-10-22T14:30:24+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "The bridge to agent-scale Git infrastructure",
@@ -322,37 +280,13 @@
       "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
       "date": "2026-10-20T16:05:03+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "desc": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "date": "2026-10-15T16:08:03+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "desc": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "desc": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "desc": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind"
     }
   ],
   "sources_failed": [
+    {
+      "source": "Google DeepMind",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
