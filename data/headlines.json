@@ -1,25 +1,130 @@
 {
-  "updated_at": "2026-11-10T10:08:24.751582+00:00",
+  "updated_at": "2026-11-11T09:40:12.861222+00:00",
   "items": [
     {
-      "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\" - GamesIndustry.biz",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtFd0NaTWM3NVRoYjg4TW96TlZNZXJmX2YyUWxWM1lyLXBtUHJxUDRGNV9ZUUdoemlzaFpNeXVzU1NlMFhlcGpCb1JDdldGdzRtNGxCZ0lvRHhHU29MaWt4aEZYa2tXN1o4Z3haUFlvV1ZNZnFEUTkyY1UzeHotZHJiVmVIclJlNldlaDRoemZuT1hUZl90MHB4RG1wc1BEWEtoNjBCN293Q3M?oc=5",
-      "desc": "House House clarifies use of AI tools in Big Walk's \"final stage of development\" GamesIndustry.biz",
-      "date": "2026-11-10T09:07:50+00:00",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "desc": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "date": "2026-11-12T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "desc": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "date": "2026-11-11T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "desc": "",
+      "date": "2026-11-11T05:01:16+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Developer creates tool to slow AI-assisted software reverse engineering - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkNwb0lnTjh6OC10UU84NkxxakFrWGZIeDF0XzREVG9YbE1TTXlwbjBwMXhKZ2hiZnd4cVZfRmw2amhRWXhJXy1OeXh4NDY1VDU4TEJBaTNlSlRlelBDWlNXR3BDTDc5cVdwendSd3FaNVp0cGdlSG1xT21ieHk5UGNaYkVXM09H?oc=5",
+      "desc": "Developer creates tool to slow AI-assisted software reverse engineering Mezha.net",
+      "date": "2026-11-10T20:46:18+00:00",
       "source": "AI agents & coding"
+    },
+    {
+      "title": "To thwart reverse engineering by agents, dev proposes blinding them - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3NqR0dabGNmRmpPNnQ4Qjk5c0I5TkxiVExHNjdJeXNUSE5fM2NSQ0lMVHRfbkdvZnpxZ1ktZUQyVDYxQXozX2xaVWVvUDd6YVF3eGNIUk5kRXpFNVpETHdteUtrOHJlcHBQX2g5SG5mX1VYVnY1UEVBX1dlRGdPMFNVVW85cDJlM2VoREgtSjd4TndqWkxJakVpc3RLQzlQeG1tR2FybTZOTDZJTE5aaUxTRVMybFduR25lc29aS0w?oc=5",
+      "desc": "To thwart reverse engineering by agents, dev proposes blinding them The Register",
+      "date": "2026-11-10T20:35:11+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Git security vulnerabilities announced",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "desc": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub ",
+      "date": "2026-11-10T18:00:00+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "desc": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "date": "2026-11-10T12:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "2026 GOTY-Contender Big Walk Reveals AI Use Amid Controversy - Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm1va2dSNWRCN0VpT1ZhQkpMLUdma2VTV1Z2S1lTQXI2X211aW1TUW01czQyYm92VW9CeDB2QlRua2RfdldJcmtJWU56bFF1R2VDWGhjUnllU3BzZVJDbWdhbW5yUjN6UkV6LUhNMFJrcU03UWdxNk5sQUk1Zl9kOXExZHZ1V2dCeUd3Y2RvTQ?oc=5",
+      "desc": "2026 GOTY-Contender Big Walk Reveals AI Use Amid Controversy Kotaku",
+      "date": "2026-11-10T11:00:59+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "desc": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "date": "2026-11-10T10:00:00+00:00",
+      "source": "OpenAI"
     },
     {
       "title": "Closing the AI guidance gap in education",
       "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "desc": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "desc": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "date": "2026-11-10T09:00:00+00:00",
       "source": "OpenAI"
     },
     {
-      "title": "Cisco Unveils Frontier AI Red Teaming and Agent Observability to Secure the Agentic Enterprise - Quantisnow",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTFsdFBVNVVJTnVzNVdveWN6YkFSTHhUd1dJeFRrY2EwZTVTMVY4Y2ZfNTExV2tNVTV4MmtWWV9kdkljUm9ja2tZZ3BiOW9aVHVDU0xLdzFXeWg5WjA5dGdJYXZoaFh5dEZwNjRSUGpIWVZmRC1RU3c5bk1yaldRb2ROekFVQWhINjdvQXI4a1lVRjgwRHRKbXB5T1dvaDNYcENMNVNZYlhBNXc?oc=5",
-      "desc": "Cisco Unveils Frontier AI Red Teaming and Agent Observability to Secure the Agentic Enterprise Quantisnow",
-      "date": "2026-11-09T20:07:46+00:00",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "link": "https://openai.com/index/singapore-airlines-travel-work",
+      "desc": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "date": "2026-11-10T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "desc": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "date": "2026-11-10T07:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate - Aftermath",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ES2tZak1jb0dqM0dXdjVMVTZDYjhvdnZSWlFnT0tWRTZ0TnZFOWt3OUUzSkFkMjBPYWpLcG5TaVozVkZkS25BR1BoU1cwRGtWbDU0ZmJnSEZPYzJRTWZ2dk5heW85TXd3bXc?oc=5",
+      "desc": "Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate Aftermath",
+      "date": "2026-11-10T06:37:42+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU3FiV3V4Uzd2M2k3cDlnWHIwdHdScHdzUGRaTkdWcVVDc2x3UUI0UnVJM1NWUjZJalBQOEIxWnBkRkdEel9tUTZTWWlyRHFtdURuVFFwOFI3NTVWRWY3cFoySU05YmFTaEI0Qmp3UlN2MXk0a0ZyTEYzUEg0eUlYV0tORzlVNWJpSkxlRTBOSGhfNFRQb3d1YVdvMjR2dThHdU5uS0VhTjh2Z1VtcFlrSUtxMFNLeG1TRThrWk9nOThlSlRCYW9ickNXd0NmRlJ3cUlHSHJzOEsyTE5LY1dPQUhxc0RRdVRn?oc=5",
+      "desc": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents Google Cloud",
+      "date": "2026-11-10T02:28:53+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "link": "https://openai.com/index/cogent-security",
+      "desc": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "date": "2026-11-10T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "desc": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "link": "https://huggingface.co/blog/decision",
+      "desc": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
+      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
+      "date": "2026-11-09T20:39:52+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -51,20 +156,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "desc": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "date": "2026-11-09T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "link": "https://openai.com/index/kuken",
-      "desc": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "date": "2026-11-09T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agenti",
@@ -86,20 +177,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "desc": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "date": "2026-11-06T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "desc": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "date": "2026-11-06T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "desc": "",
@@ -114,32 +191,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "desc": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "date": "2026-11-05T20:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "desc": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
       "date": "2026-11-05T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "desc": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "date": "2026-11-05T09:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "Top 13 Open-Source Agentic AI Frameworks - AIMultiple",
@@ -170,10 +226,10 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "llm-d 1.0 aims to cut AI inference costs for firms - IT Brief UK",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSS1OUnpEdnp2eTBlZTNDRVo2TVc1SjdYbEZTZk1WU0RFa05OZEFzcEFYRjg5OTJERzhCREVqSDRwTWgtRE5sMHRncXpFLWRtSnFPU3ZPeXM2Sm42LTRERlFIc2RoVDRiUFA0TWt0WGJEUkJpWWR5Q2tOYmtFcnM3X01JbWs?oc=5",
-      "desc": "llm-d 1.0 aims to cut AI inference costs for firms IT Brief UK",
-      "date": "2026-11-04T08:15:00+00:00",
+      "title": "Open-Source AI Coding Assistant: 12 Steps, 60 Min [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45cHlWR0FkZ3RFQjUxMFZSRzJnbEZoQTFVdVBQdTdlX1RSSTBTMFZVaEdUNFFTVk10Y01Nb2Rmdjc0MWdsNmVIWEZ2NW5JZzJjWkNmQTB3alFSRTZ3NUNXVzMyRkNhMERnY1YwdDBSZzBBaTNUbUVxbU9iV3hYM0E?oc=5",
+      "desc": "Open-Source AI Coding Assistant: 12 Steps, 60 Min [2026] shattered.io",
+      "date": "2026-11-04T15:53:16+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -191,60 +247,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MFUxc19NY3FaQ1VQSlFraVNmdnJVOW5hdWhpc09QN29sTU9BX09jY2pvMTB4OUE1X2wwRXNJbzdWalpLSGFpdjZyM0Npa0JaN0lNUF81M29JRS1LQTVwWFFoWG5XclFIUUU5aV9xRW1LMDFWa096elF3UzllNEU?oc=5",
-      "desc": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges The Hacker News",
-      "date": "2026-11-03T15:41:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "2026: The State of Enterprise AI - Menlo Ventures",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWWFrbk42bDE3LTNTV0hrVDF4czhRVTZ6N3dFMjBGY01RWGJkeWVQNnRIVTdjbHVGaVFVQmxaTkZ0UnEycXYyOUZPSXJHdHc2V3dhZFlkX1BDa1hiNVk0a2lOX0xfZ2RuQXEzNUJYM1dNdw?oc=5",
-      "desc": "2026: The State of Enterprise AI Menlo Ventures",
-      "date": "2026-11-03T14:12:34+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "AI agents scale and speed up Chinese-linked attacks - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEM4N3htZGNUUDktZjNlT19KZHdzSXdLVnFxUzFSeU9IMWJYSU80OVpOQllGcVJZWWVtaE5PZXFDMlBiVUJvcXhyUkZrZkZUQnlnTUViSHhwWVNUNVR1VFRRWFVTeDNsZVowclVBN1RaS0c2OEV5Qm1kWXdKenAyNTJFdDRpdkI1Ty1VUEZGT3k?oc=5",
-      "desc": "AI agents scale and speed up Chinese-linked attacks Help Net Security",
-      "date": "2026-11-03T12:31:59+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "AI Guardrails for LLM Apps: 12 Steps, 75 Min [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fWUh6SGVvOHk2WGVtZ0JLcjdDaC1HN2dsckdxeGFPMUowQTNGTDhUbnpLRnIyZndkU3NPNlYtNW1fTUk4UkFuclNiODNMYnFmV1pHSEpaRVh3blZPR2VLZWVXRHpvX2phOEdVZGVQSEdmQQ?oc=5",
-      "desc": "AI Guardrails for LLM Apps: 12 Steps, 75 Min [2026] shattered.io",
-      "date": "2026-11-03T10:32:44+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "link": "https://huggingface.co/blog/cwe-bench",
-      "desc": "",
-      "date": "2026-11-03T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "desc": "",
-      "date": "2026-11-03T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "Game Off 2026: The theme is SHIFT",
       "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
       "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The ",
       "date": "2026-11-01T21:36:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "desc": "",
-      "date": "2026-10-29T13:37:07+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -272,13 +279,6 @@
       "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "desc": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub",
       "date": "2026-10-21T16:00:00+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-      "desc": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
-      "date": "2026-10-20T16:05:03+00:00",
       "source": "GitHub Blog"
     }
   ],
