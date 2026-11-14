@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-11-13T09:47:38.192094+00:00",
+  "updated_at": "2026-11-14T09:10:42.769840+00:00",
   "items": [
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "desc": "",
+      "date": "2026-11-13T18:00:39+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "desc": "",
+      "date": "2026-11-13T17:02:35+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "desc": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "date": "2026-11-13T15:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "desc": "",
+      "date": "2026-11-13T14:05:22+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "desc": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "date": "2026-11-13T08:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "GitHub availability report: October 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "date": "2026-11-13T00:20:16+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3ZVem5ocGpUSkppWV9lRHhnZ3RIY3JaOFg3RW1VVksybEhzU2wxTFRacGhkZEhKSUVYWWk0OUMweGdfZEJTUjFQeTRFV1Q0NzF0ZWVtUkVkZDNaN0gzNHk4bkNoUkYtY2Z1SGtiQ1BTV09Sc0l0VnJ3aFVLQ0NTeVdfWmt1YVU?oc=5",
+      "desc": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] shattered.io",
+      "date": "2026-11-12T23:24:26+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -58,13 +100,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "AWS Open-Sources AI Agent Evaluation Framework That Hardens Its AI Grader Against Prompt Injection - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVF9uXzcyLVhXb0ZyRUY1SEhRMEozaW1vNGZlellqU3dUVXZoVTc5enFTM1JWZmttbzVUT2JsbWJjRGdCNHpFNFkySHptbVdoT250c3dfdHRJNk5vYWlqdHZpN0lZT0pXc1BOUnQzUU9JNWVBcjVud0NVWjVSWUw1NmExZk9hSjBqUjR1OTV3NU1DeG5Dbi1XWG9ZMlpnU3hBN2VuZkpfTEVqd2cwVGNnejRzTkhkbURfR3NCN1VOYkJtZEV2QXVyeDhJYWVWTGY3aW9EazQ5MFliWFF3d1ZhV1NGdkhQSFky?oc=5",
-      "desc": "AWS Open-Sources AI Agent Evaluation Framework That Hardens Its AI Grader Against Prompt Injection Tech Times",
-      "date": "2026-11-12T07:00:19+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Supporting research on AI and children’s safety",
       "link": "https://openai.com/index/children-first-declaration",
       "desc": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
@@ -93,11 +128,25 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "AI Is Both Target and Tool for Threat Actors - Recorded Future",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6d0ZROEk2T1B2QlJfelUxZFVSb1JsT090VWxoeEFrVkdLRy13RXBPcDdSTXlUYU9xdV9LSEd0M3lnSWY5N3pBZFl1SXFBYm1KenZVMmFFWjVIVGUxLUoxcExGRjA1dWwwOG5TNGE1Ym9pNDNVbVE?oc=5",
+      "desc": "AI Is Both Target and Tool for Threat Actors Recorded Future",
+      "date": "2026-11-11T16:19:52+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "ChatGPT Plus for veterans and servicemembers",
       "link": "https://openai.com/index/chatgpt-plus-for-veterans",
       "desc": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "date": "2026-11-11T08:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Top 22 LLM Security Tools & Free Frameworks - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPalFYM0RMaGlaNUpuREhqdG1rNVdTR1o3WW5YOG5qNE1TMFV5a0g1VjBiYUJEV012MjQ3RWFka1NsR0RfOWI5ZHFDMXhzYngza05R?oc=5",
+      "desc": "Top 22 LLM Security Tools & Free Frameworks AIMultiple",
+      "date": "2026-11-11T08:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
@@ -128,13 +177,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Goose Open-Source AI Coding Assistant, 12 Steps [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aSUFhQ2N2MW9uZmZzRGMxZUFKbUhMczJqUG9JQ0tPQlpZcDZaOFVDVTg0LXlIUE5CUWZFTmVYOTJoTEdrWUY0LUh6Rk9kamhvenU2VWxjNHRJbkxGdFBnMjFpam5OYTJKZ3hMWjhjSGJDdGtHOGxTUXNmR0FUS0E?oc=5",
-      "desc": "Goose Open-Source AI Coding Assistant, 12 Steps [2026] shattered.io",
-      "date": "2026-11-10T23:24:50+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNjTUF0Y25aSFFVcW9xV2FTaWNDOC1IU3Z2T21vWkhjakw4NjZvSzFyWE5QdmNoXzRWa1E2LV8xWnZJSzVWNEhIdFh2NXJvN01wUEhXY0ZsamtXcE8yUFI2end5OC1VdFdqTEJHZ210eTBUTFVpR2o3Yi0tYkJ1LW4xbFVGSG5FNXRIWGFsdlFKdjFBcngzdmpyQ0hfQjdjZkdEYWxqdGNnWU9WS3BqbUh0dndHV2M?oc=5",
       "desc": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents Microsoft",
@@ -163,20 +205,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "desc": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "date": "2026-11-10T10:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "desc": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "date": "2026-11-10T09:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
       "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
@@ -198,13 +226,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "desc": "",
-      "date": "2026-11-09T15:05:57+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "desc": "",
@@ -212,32 +233,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Top 8 Open Source AI Coding Agents: Benchmark & Compliance - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SOVhYWW5EV1lpWUNsZVRaT0ZicDdOTzJWb3laWUFvd1BWRmNDLTRjOVQ1c0VlbjhnbmpVNXlTYnJ6ZWYzWmhsbGQtMEdZMnVMMW5HNHYwSQ?oc=5",
-      "desc": "Top 8 Open Source AI Coding Agents: Benchmark & Compliance AIMultiple",
-      "date": "2026-11-09T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agenti",
       "date": "2026-11-06T22:15:59+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "link": "https://huggingface.co/blog/allenai/toyblocks",
-      "desc": "",
-      "date": "2026-11-06T14:00:48+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "desc": "",
-      "date": "2026-11-06T00:00:00+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "Inside GitHub’s new Git storage architecture",
