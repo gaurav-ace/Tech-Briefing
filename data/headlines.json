@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-14T09:10:42.769840+00:00",
+  "updated_at": "2026-11-15T09:39:58.699290+00:00",
   "items": [
+    {
+      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
+      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
+      "date": "2026-11-14T15:52:37+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -79,6 +86,13 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "desc": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier - Oracle Blogs",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX21oblZCcGtqa2hITlRNblpBV1lLZ24xQ0UyVUpMTWE1dm12ZTNaQkphSkZHMTB2eGpEQ0tVVDNXTjhZZFh4b0NBSGlZV0RLWUpJaVJxQ0NHNGMzQkZxeVI0OHJUWnpTZGZTUXd3MWpnS2RfdjVpNGNmWTJRQVdvdnVFN2ZlcXhfckRZ?oc=5",
       "desc": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier Oracle Blogs",
@@ -135,6 +149,13 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "date": "2026-11-11T15:00:15+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "ChatGPT Plus for veterans and servicemembers",
       "link": "https://openai.com/index/chatgpt-plus-for-veterans",
       "desc": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
@@ -146,13 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPalFYM0RMaGlaNUpuREhqdG1rNVdTR1o3WW5YOG5qNE1TMFV5a0g1VjBiYUJEV012MjQ3RWFka1NsR0RfOWI5ZHFDMXhzYngza05R?oc=5",
       "desc": "Top 22 LLM Security Tools & Free Frameworks AIMultiple",
       "date": "2026-11-11T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
-      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
-      "date": "2026-11-11T06:08:50+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -198,11 +212,32 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "desc": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Helping caregivers use AI in everyday life",
       "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "desc": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "date": "2026-11-10T12:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
@@ -226,6 +261,13 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "desc": "",
@@ -247,11 +289,25 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "desc": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
       "date": "2026-11-05T16:00:00+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -266,6 +322,20 @@
       "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The ",
       "date": "2026-11-01T21:36:00+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30T14:18:30+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "desc": "",
+      "date": "2026-10-28T17:00:58+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -283,10 +353,6 @@
     }
   ],
   "sources_failed": [
-    {
-      "source": "Google DeepMind",
-      "error": "not well-formed (invalid token): line 1, column 0"
-    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
