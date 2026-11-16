@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-11-15T09:39:58.699290+00:00",
+  "updated_at": "2026-11-16T09:57:33.542435+00:00",
   "items": [
     {
-      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
-      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
-      "date": "2026-11-14T15:52:37+00:00",
-      "source": "AI agents & coding"
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "desc": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "date": "2026-11-16T09:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "desc": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "date": "2026-11-15T22:00:01+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "desc": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "date": "2026-11-15T22:00:00+00:00",
+      "source": "OpenAI"
     },
     {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -42,6 +56,13 @@
       "desc": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "date": "2026-11-13T08:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "How to monitor AI agents in production before a bad answer reaches a customer - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0NHVENmYVQta3Fndk9LRmhDWGNzMGhkcVhlUFo2Z0RXMkhEWVlQb01RNlRNSzE1ai02dnBMN1Bfa2txeXZkV2x3dFVvRVk1bDd6N1R6Mk51cEEtQVQ3bjJpd1owMURDOHMyRlhROHhwNEpXckRsV2FCUEJrcUNMMnlmNGRMVHlwMERjeHEzYTd0dGNnWkxpVDJObTJrSm5uYUZvS2hBaGc?oc=5",
+      "desc": "How to monitor AI agents in production before a bad answer reaches a customer Startup Fortune",
+      "date": "2026-11-13T07:54:45+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "GitHub availability report: October 2026",
@@ -135,13 +156,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know - Unit 42",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmN3bE9RM2xENHhPYnJQVnRhdnkzN3RudzcwOUN2eUJsb29WMUdxTzVHaVRjaWRBLU1ZeEtSRUY5QnAtazkwcW10c2phSk1iZ3FrUUxrbXE2clNFZVBoblozNTJVak1sWkhmOVdYVXBJOExLc0lGb1NONVBic3FiNQ?oc=5",
-      "desc": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know Unit 42",
-      "date": "2026-11-11T23:09:16+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "AI Is Both Target and Tool for Threat Actors - Recorded Future",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6d0ZROEk2T1B2QlJfelUxZFVSb1JsT090VWxoeEFrVkdLRy13RXBPcDdSTXlUYU9xdV9LSEd0M3lnSWY5N3pBZFl1SXFBYm1KenZVMmFFWjVIVGUxLUoxcExGRjA1dWwwOG5TNGE1Ym9pNDNVbVE?oc=5",
       "desc": "AI Is Both Target and Tool for Threat Actors Recorded Future",
@@ -156,13 +170,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "desc": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "date": "2026-11-11T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Top 22 LLM Security Tools & Free Frameworks - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPalFYM0RMaGlaNUpuREhqdG1rNVdTR1o3WW5YOG5qNE1TMFV5a0g1VjBiYUJEV012MjQ3RWFka1NsR0RfOWI5ZHFDMXhzYngza05R?oc=5",
       "desc": "Top 22 LLM Security Tools & Free Frameworks AIMultiple",
@@ -175,13 +182,6 @@
       "desc": "",
       "date": "2026-11-11T05:01:16+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "desc": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "date": "2026-11-11T00:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
@@ -226,13 +226,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "desc": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "date": "2026-11-10T12:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Opening the datasets behind our AI weather models",
       "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
       "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
@@ -244,6 +237,13 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
       "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
       "date": "2026-11-10T08:00:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU3FiV3V4Uzd2M2k3cDlnWHIwdHdScHdzUGRaTkdWcVVDc2x3UUI0UnVJM1NWUjZJalBQOEIxWnBkRkdEel9tUTZTWWlyRHFtdURuVFFwOFI3NTVWRWY3cFoySU05YmFTaEI0Qmp3UlN2MXk0a0ZyTEYzUEg0eUlYV0tORzlVNWJpSkxlRTBOSGhfNFRQb3d1YVdvMjR2dThHdU5uS0VhTjh2Z1VtcFlrSUtxMFNLeG1TRThrWk9nOThlSlRCYW9ickNXd0NmRlJ3cUlHSHJzOEsyTE5LY1dPQUhxc0RRdVRn?oc=5",
+      "desc": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents Google Cloud",
+      "date": "2026-11-10T02:28:53+00:00",
       "source": "AI agents & coding"
     },
     {
