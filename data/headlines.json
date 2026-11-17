@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-16T09:57:33.542435+00:00",
+  "updated_at": "2026-11-17T10:53:48.427912+00:00",
   "items": [
+    {
+      "title": "Google finds AI agent writing and launching exploits with no human in the loop - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5",
+      "desc": "Google finds AI agent writing and launching exploits with no human in the loop Help Net Security",
+      "date": "2026-11-17T08:45:24+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "desc": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "desc": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "date": "2026-11-16T17:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "desc": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "date": "2026-11-16T17:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How to Build a Software Engineering Career in the Age of AI Agents - Medium",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU016ZGc5YVA0RHNwVlhtZURSVUI3SUkwcDlEbWFiNmpSUVQtYXpSUXRXQ21DbVVJaHNMOUlucm1VZC1YNExyM1ZCeloxQmVjV216bVZEQlJ1R1Bkb3V5YjFlSEVrZDUxTDAxS2dyY0QzMXB5RkhsdkRpWjFXc3ZTeHlLOHFSY1dYRHk3SWExNUNnUnBBTjB4OXJGbEJuVGU4R3d2LWdIcTJTYlBLalRLWA?oc=5",
+      "desc": "How to Build a Software Engineering Career in the Age of AI Agents Medium",
+      "date": "2026-11-16T16:46:01+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5",
+      "desc": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold Google Cloud",
+      "date": "2026-11-16T15:29:09+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1mNVUtaU1mbFc5RkYtbVl5SndUcjJPVm1FVjcxWnB1NW9KRHJoTloxZ053STNBdUxuVHhqLXF6dV8xRWRGMUNhRzVMSnhrNTRnNnRtY2s0WWMzeEVjR21HOVQwT0R3RkVXZDNYbFRqY2FYZl9wOElWc3JVRklDUFdRcWw?oc=5",
+      "desc": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches The Hacker News",
+      "date": "2026-11-16T14:00:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "desc": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "date": "2026-11-16T12:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "desc": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "date": "2026-11-16T09:30:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "link": "https://openai.com/index/lvmh-media-division-partnership",
@@ -9,18 +72,46 @@
       "source": "OpenAI"
     },
     {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "desc": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "date": "2026-11-15T22:00:01+00:00",
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "desc": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "date": "2026-11-16T08:00:00+00:00",
       "source": "OpenAI"
     },
     {
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "desc": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "date": "2026-11-15T22:00:00+00:00",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "desc": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "date": "2026-11-16T06:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "desc": "",
+      "date": "2026-11-16T06:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "desc": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "date": "2026-11-16T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "link": "https://huggingface.co/blog/openrouter",
+      "desc": "",
+      "date": "2026-11-16T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "AI-BOMs: A Practical Guide to AI Bills of Materials - wiz.io",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZ1k1WDRLQWYyUmg5R0xoUEpuZGwxTEVuN3Jrdi1GcXpNZUczMktoTk5yVFRLdlVIalpxdEJWSWp4X0thUDNUU0REZEFYdGtLSDgtYS1rREo1WW81MGx6SE1nSFZvU2V0bU9kcHVMdmxlR0JY?oc=5",
+      "desc": "AI-BOMs: A Practical Guide to AI Bills of Materials wiz.io",
+      "date": "2026-11-13T23:59:13+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -37,32 +128,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "desc": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "date": "2026-11-13T15:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "desc": "",
       "date": "2026-11-13T14:05:22+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "desc": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "date": "2026-11-13T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "How to monitor AI agents in production before a bad answer reaches a customer - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0NHVENmYVQta3Fndk9LRmhDWGNzMGhkcVhlUFo2Z0RXMkhEWVlQb01RNlRNSzE1ai02dnBMN1Bfa2txeXZkV2x3dFVvRVk1bDd6N1R6Mk51cEEtQVQ3bjJpd1owMURDOHMyRlhROHhwNEpXckRsV2FCUEJrcUNMMnlmNGRMVHlwMERjeHEzYTd0dGNnWkxpVDJObTJrSm5uYUZvS2hBaGc?oc=5",
-      "desc": "How to monitor AI agents in production before a bad answer reaches a customer Startup Fortune",
-      "date": "2026-11-13T07:54:45+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "GitHub availability report: October 2026",
@@ -72,25 +142,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3ZVem5ocGpUSkppWV9lRHhnZ3RIY3JaOFg3RW1VVksybEhzU2wxTFRacGhkZEhKSUVYWWk0OUMweGdfZEJTUjFQeTRFV1Q0NzF0ZWVtUkVkZDNaN0gzNHk4bkNoUkYtY2Z1SGtiQ1BTV09Sc0l0VnJ3aFVLQ0NTeVdfWmt1YVU?oc=5",
-      "desc": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] shattered.io",
-      "date": "2026-11-12T23:24:26+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Build once, run on any agent: A practical guide to agent skills",
       "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
       "desc": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared fi",
       "date": "2026-11-12T22:54:52+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "desc": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "date": "2026-11-12T20:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -121,34 +177,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "desc": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "date": "2026-11-12T12:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "desc": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "date": "2026-11-12T09:30:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "link": "https://openai.com/index/children-first-declaration",
-      "desc": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "desc": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "link": "https://huggingface.co/blog/3d-lora-finetuning",
       "desc": "",
@@ -156,10 +184,10 @@
       "source": "Hugging Face"
     },
     {
-      "title": "AI Is Both Target and Tool for Threat Actors - Recorded Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6d0ZROEk2T1B2QlJfelUxZFVSb1JsT090VWxoeEFrVkdLRy13RXBPcDdSTXlUYU9xdV9LSEd0M3lnSWY5N3pBZFl1SXFBYm1KenZVMmFFWjVIVGUxLUoxcExGRjA1dWwwOG5TNGE1Ym9pNDNVbVE?oc=5",
-      "desc": "AI Is Both Target and Tool for Threat Actors Recorded Future",
-      "date": "2026-11-11T16:19:52+00:00",
+      "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know - Unit 42",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmN3bE9RM2xENHhPYnJQVnRhdnkzN3RudzcwOUN2eUJsb29WMUdxTzVHaVRjaWRBLU1ZeEtSRUY5QnAtazkwcW10c2phSk1iZ3FrUUxrbXE2clNFZVBoblozNTJVak1sWkhmOVdYVXBJOExLc0lGb1NONVBic3FiNQ?oc=5",
+      "desc": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know Unit 42",
+      "date": "2026-11-11T23:09:16+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -168,13 +196,6 @@
       "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "date": "2026-11-11T15:00:15+00:00",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Top 22 LLM Security Tools & Free Frameworks - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPalFYM0RMaGlaNUpuREhqdG1rNVdTR1o3WW5YOG5qNE1TMFV5a0g1VjBiYUJEV012MjQ3RWFka1NsR0RfOWI5ZHFDMXhzYngza05R?oc=5",
-      "desc": "Top 22 LLM Security Tools & Free Frameworks AIMultiple",
-      "date": "2026-11-11T08:00:00+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -233,20 +254,6 @@
       "source": "Google DeepMind"
     },
     {
-      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
-      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
-      "date": "2026-11-10T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU3FiV3V4Uzd2M2k3cDlnWHIwdHdScHdzUGRaTkdWcVVDc2x3UUI0UnVJM1NWUjZJalBQOEIxWnBkRkdEel9tUTZTWWlyRHFtdURuVFFwOFI3NTVWRWY3cFoySU05YmFTaEI0Qmp3UlN2MXk0a0ZyTEYzUEg0eUlYV0tORzlVNWJpSkxlRTBOSGhfNFRQb3d1YVdvMjR2dThHdU5uS0VhTjh2Z1VtcFlrSUtxMFNLeG1TRThrWk9nOThlSlRCYW9ickNXd0NmRlJ3cUlHSHJzOEsyTE5LY1dPQUhxc0RRdVRn?oc=5",
-      "desc": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents Google Cloud",
-      "date": "2026-11-10T02:28:53+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "link": "https://huggingface.co/blog/hub-gcp-marketplace",
       "desc": "",
@@ -266,13 +273,6 @@
       "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "date": "2026-11-09T19:51:47+00:00",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "desc": "",
-      "date": "2026-11-09T12:34:29+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
