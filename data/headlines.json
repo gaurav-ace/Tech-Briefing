@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-11-17T10:53:48.427912+00:00",
+  "updated_at": "2026-11-18T10:25:02.101642+00:00",
   "items": [
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "desc": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "date": "2026-11-18T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "desc": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need",
+      "date": "2026-11-17T18:29:29+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "desc": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "date": "2026-11-17T18:20:40+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "desc": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "date": "2026-11-17T17:45:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Google finds AI agent writing and launching exploits with no human in the loop - Help Net Security",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5",
@@ -9,9 +37,30 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "desc": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "date": "2026-11-17T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "desc": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "desc": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "date": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "desc": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "date": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI"
     },
@@ -44,13 +93,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1mNVUtaU1mbFc5RkYtbVl5SndUcjJPVm1FVjcxWnB1NW9KRHJoTloxZ053STNBdUxuVHhqLXF6dV8xRWRGMUNhRzVMSnhrNTRnNnRtY2s0WWMzeEVjR21HOVQwT0R3RkVXZDNYbFRqY2FYZl9wOElWc3JVRklDUFdRcWw?oc=5",
-      "desc": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches The Hacker News",
-      "date": "2026-11-16T14:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "link": "https://openai.com/index/science-at-the-frontier",
       "desc": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
@@ -65,39 +107,18 @@
       "source": "OpenAI"
     },
     {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "desc": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "date": "2026-11-16T09:00:00+00:00",
-      "source": "OpenAI"
+      "title": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95% - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XQ2Z5akhkVE5CTkZxOFlBOHVKMUFhODh6U0p5d0FjOGFQWm1heTZNX3RxU2dhcVNtR3lCdUg3M3JKMjI2RFlOaHNnT1d4cmtJN1NhTF8zOGJ4WnJhNmZpbzE4a3Z5eWh3bXFORkVHRHg1MEpHT1E?oc=5",
+      "desc": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95% BigGo Finance",
+      "date": "2026-11-16T02:27:00+00:00",
+      "source": "AI agents & coding"
     },
     {
-      "title": "Our first phase of embedded assessments",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "desc": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "date": "2026-11-16T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "desc": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "date": "2026-11-16T06:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "desc": "",
-      "date": "2026-11-16T06:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "desc": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "date": "2026-11-16T00:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Nota announced on the 16th that it has signed an optimization large language model (LLM) and server - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kSGMtcGhlQkFhUlBHSHZqcFNkdEFPbldBNjE3NVJqd3pDN1dNbEdQem84Zjc4dlNSUWtpWnFYQXFwSlFnYnI4QlZHTQ?oc=5",
+      "desc": "Nota announced on the 16th that it has signed an optimization large language model (LLM) and server 매일경제",
+      "date": "2026-11-16T01:48:52+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
@@ -135,11 +156,25 @@
       "source": "Hugging Face"
     },
     {
+      "title": "How to monitor AI agents in production before a bad answer reaches a customer - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0NHVENmYVQta3Fndk9LRmhDWGNzMGhkcVhlUFo2Z0RXMkhEWVlQb01RNlRNSzE1ai02dnBMN1Bfa2txeXZkV2x3dFVvRVk1bDd6N1R6Mk51cEEtQVQ3bjJpd1owMURDOHMyRlhROHhwNEpXckRsV2FCUEJrcUNMMnlmNGRMVHlwMERjeHEzYTd0dGNnWkxpVDJObTJrSm5uYUZvS2hBaGc?oc=5",
+      "desc": "How to monitor AI agents in production before a bad answer reaches a customer Startup Fortune",
+      "date": "2026-11-13T07:54:45+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "GitHub availability report: October 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "date": "2026-11-13T00:20:16+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3ZVem5ocGpUSkppWV9lRHhnZ3RIY3JaOFg3RW1VVksybEhzU2wxTFRacGhkZEhKSUVYWWk0OUMweGdfZEJTUjFQeTRFV1Q0NzF0ZWVtUkVkZDNaN0gzNHk4bkNoUkYtY2Z1SGtiQ1BTV09Sc0l0VnJ3aFVLQ0NTeVdfWmt1YVU?oc=5",
+      "desc": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] shattered.io",
+      "date": "2026-11-12T23:24:26+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -163,13 +198,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "desc": "",
-      "date": "2026-11-12T18:00:50+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier - Oracle Blogs",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX21oblZCcGtqa2hITlRNblpBV1lLZ24xQ0UyVUpMTWE1dm12ZTNaQkphSkZHMTB2eGpEQ0tVVDNXTjhZZFh4b0NBSGlZV0RLWUpJaVJxQ0NHNGMzQkZxeVI0OHJUWnpTZGZTUXd3MWpnS2RfdjVpNGNmWTJRQVdvdnVFN2ZlcXhfckRZ?oc=5",
       "desc": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier Oracle Blogs",
@@ -182,20 +210,6 @@
       "desc": "",
       "date": "2026-11-12T00:00:00+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know - Unit 42",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmN3bE9RM2xENHhPYnJQVnRhdnkzN3RudzcwOUN2eUJsb29WMUdxTzVHaVRjaWRBLU1ZeEtSRUY5QnAtazkwcW10c2phSk1iZ3FrUUxrbXE2clNFZVBoblozNTJVak1sWkhmOVdYVXBJOExLc0lGb1NONVBic3FiNQ?oc=5",
-      "desc": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know Unit 42",
-      "date": "2026-11-11T23:09:16+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "date": "2026-11-11T15:00:15+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -212,46 +226,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNjTUF0Y25aSFFVcW9xV2FTaWNDOC1IU3Z2T21vWkhjakw4NjZvSzFyWE5QdmNoXzRWa1E2LV8xWnZJSzVWNEhIdFh2NXJvN01wUEhXY0ZsamtXcE8yUFI2end5OC1VdFdqTEJHZ210eTBUTFVpR2o3Yi0tYkJ1LW4xbFVGSG5FNXRIWGFsdlFKdjFBcngzdmpyQ0hfQjdjZkdEYWxqdGNnWU9WS3BqbUh0dndHV2M?oc=5",
-      "desc": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents Microsoft",
-      "date": "2026-11-10T20:52:56+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub - Dark Reading",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzM1dS1lRkR4UnVNV3A5VXlueFdaQ0p4NzlybjRTZXpqWkYwc19nRHR6Nm1YdTRaRkNkWk5tUnhBMS1yaEJHTnhSYXYybWM5blVCaUxKVi1ITmZCRVVCdW1VRFpmMVRTRndfR0owOVFESkhnZ0poTGVlZVVTc3Vtcw?oc=5",
-      "desc": "AI Coding Agents Leak Thousands of Secrets to GitHub Dark Reading",
-      "date": "2026-11-10T18:57:56+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Git security vulnerabilities announced",
       "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-      "desc": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub ",
+      "desc": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
       "date": "2026-11-10T18:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "desc": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "date": "2026-11-10T12:02:28+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Opening the datasets behind our AI weather models",
-      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10T11:13:04+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -268,13 +247,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agenti",
@@ -289,25 +261,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "desc": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
       "date": "2026-11-05T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -322,37 +280,13 @@
       "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The ",
       "date": "2026-11-01T21:36:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30T14:18:30+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "desc": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "GitHub Universe 2026: Evolving every layer of the stack",
-      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-      "desc": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
-      "date": "2026-10-28T16:09:28+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "desc": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
-      "date": "2026-10-28T16:07:40+00:00",
-      "source": "GitHub Blog"
     }
   ],
   "sources_failed": [
+    {
+      "source": "Google DeepMind",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
