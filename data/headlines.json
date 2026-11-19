@@ -1,12 +1,117 @@
 {
-  "updated_at": "2026-11-18T10:25:02.101642+00:00",
+  "updated_at": "2026-11-19T10:32:52.273779+00:00",
   "items": [
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "desc": "",
+      "date": "2026-11-18T21:35:43+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "desc": "",
+      "date": "2026-11-18T19:54:56+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "desc": "",
+      "date": "2026-11-18T18:53:43+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "desc": "",
+      "date": "2026-11-18T18:13:42+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakJHX21LaURrSk9yU0h4ay1aOFVOaFRRcnpra1pCYUFIMDE2LXc3Zl9FeVY4X0ltUU5rRkVVVHFHZm5kY1Rhc255ZlZkdFR6SkI5NUpTYkNwNFhLN3V3Um5fOHMzNTI5RS05MXBpaHIwbmlPbHhHdnFLZGd1MFFxcmxZbW1DRjBDMENmRXk0SFVWenBzNlVQTTlKX0tRM2FlWWF3?oc=5",
+      "desc": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits Technology Org",
+      "date": "2026-11-18T17:12:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "desc": "",
+      "date": "2026-11-18T15:00:23+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "desc": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "date": "2026-11-18T10:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "desc": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "date": "2026-11-18T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "desc": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "date": "2026-11-18T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "desc": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "date": "2026-11-18T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "desc": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "date": "2026-11-18T06:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
+      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
+      "date": "2026-11-18T05:18:02+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "desc": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "date": "2026-11-18T00:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "desc": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "date": "2026-11-18T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "desc": "",
+      "date": "2026-11-18T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "desc": "",
+      "date": "2026-11-18T00:00:00+00:00",
+      "source": "Hugging Face"
     },
     {
       "title": "Maintainers don’t need more AI bug reports. They need fixes.",
@@ -51,34 +156,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "desc": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "date": "2026-11-17T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "desc": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "date": "2026-11-17T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "desc": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "date": "2026-11-16T17:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "desc": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "date": "2026-11-16T17:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "How to Build a Software Engineering Career in the Age of AI Agents - Medium",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU016ZGc5YVA0RHNwVlhtZURSVUI3SUkwcDlEbWFiNmpSUVQtYXpSUXRXQ21DbVVJaHNMOUlucm1VZC1YNExyM1ZCeloxQmVjV216bVZEQlJ1R1Bkb3V5YjFlSEVrZDUxTDAxS2dyY0QzMXB5RkhsdkRpWjFXc3ZTeHlLOHFSY1dYRHk3SWExNUNnUnBBTjB4OXJGbEJuVGU4R3d2LWdIcTJTYlBLalRLWA?oc=5",
       "desc": "How to Build a Software Engineering Career in the Age of AI Agents Medium",
@@ -90,34 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5",
       "desc": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold Google Cloud",
       "date": "2026-11-16T15:29:09+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "desc": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "date": "2026-11-16T12:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "desc": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "date": "2026-11-16T09:30:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95% - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XQ2Z5akhkVE5CTkZxOFlBOHVKMUFhODh6U0p5d0FjOGFQWm1heTZNX3RxU2dhcVNtR3lCdUg3M3JKMjI2RFlOaHNnT1d4cmtJN1NhTF8zOGJ4WnJhNmZpbzE4a3Z5eWh3bXFORkVHRHg1MEpHT1E?oc=5",
-      "desc": "South Korea's Nota Targets Banks' Air-Gapped Networks With AI Coding Tool, Boosting GPU Throughput Up to 95% BigGo Finance",
-      "date": "2026-11-16T02:27:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Nota announced on the 16th that it has signed an optimization large language model (LLM) and server - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kSGMtcGhlQkFhUlBHSHZqcFNkdEFPbldBNjE3NVJqd3pDN1dNbEdQem84Zjc4dlNSUWtpWnFYQXFwSlFnYnI4QlZHTQ?oc=5",
-      "desc": "Nota announced on the 16th that it has signed an optimization large language model (LLM) and server 매일경제",
-      "date": "2026-11-16T01:48:52+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -198,6 +247,13 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "desc": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier - Oracle Blogs",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX21oblZCcGtqa2hITlRNblpBV1lLZ24xQ0UyVUpMTWE1dm12ZTNaQkphSkZHMTB2eGpEQ0tVVDNXTjhZZFh4b0NBSGlZV0RLWUpJaVJxQ0NHNGMzQkZxeVI0OHJUWnpTZGZTUXd3MWpnS2RfdjVpNGNmWTJRQVdvdnVFN2ZlcXhfckRZ?oc=5",
       "desc": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier Oracle Blogs",
@@ -205,25 +261,11 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "link": "https://huggingface.co/blog/3d-lora-finetuning",
-      "desc": "",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "link": "https://huggingface.co/blog/qvac/botpsy",
-      "desc": "",
-      "date": "2026-11-11T05:01:16+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "link": "https://huggingface.co/blog/token-pooling",
-      "desc": "",
-      "date": "2026-11-11T00:00:00+00:00",
-      "source": "Hugging Face"
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "date": "2026-11-11T15:00:15+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Git security vulnerabilities announced",
@@ -233,18 +275,32 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "desc": "",
-      "date": "2026-11-10T00:00:00+00:00",
-      "source": "Hugging Face"
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind"
     },
     {
-      "title": "Decision Models in Hugging Face",
-      "link": "https://huggingface.co/blog/decision",
-      "desc": "",
-      "date": "2026-11-10T00:00:00+00:00",
-      "source": "Hugging Face"
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -261,11 +317,25 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "desc": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
       "date": "2026-11-05T16:00:00+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -283,10 +353,6 @@
     }
   ],
   "sources_failed": [
-    {
-      "source": "Google DeepMind",
-      "error": "not well-formed (invalid token): line 1, column 0"
-    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
