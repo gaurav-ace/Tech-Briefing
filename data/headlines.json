@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-19T10:32:52.273779+00:00",
+  "updated_at": "2026-11-20T10:13:46.988021+00:00",
   "items": [
+    {
+      "title": "How to Run a Local LLM for Private and Uncensored AI - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMjVWY2k2d2ROMXRSSS1XOW5fUXRKaHhuR1RPenk5YjR5c290dkxGNE11VDFTaWZzZkstRjRLNGN5RnBxTmVRNjhHM3dkRzZxbV9zdTBOaklKMkUtd01MY09QUUxMZWE5?oc=5",
+      "desc": "How to Run a Local LLM for Private and Uncensored AI shattered.io",
+      "date": "2026-11-20T06:41:43+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Does your AI agent need an LLM to decide what to do next? - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1TXBPWE5FQkRUVnhEdXdWTDQ1YVNXeVpGc0pGZmVmVVRrcFdvXzhXanJEVjhZUDFvQTZyaFVNV01tT0dVMEF1ODFqZHN0MktlNXUwZDU1U09QZmlHQUE?oc=5",
+      "desc": "Does your AI agent need an LLM to decide what to do next? The New Stack",
+      "date": "2026-11-20T01:41:34+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "The best things in open source are built together",
+      "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "desc": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
+      "date": "2026-11-19T16:00:00+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Uncensored AI models are thriving on code hosting platforms - The Register",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1BU2lQUkFieDhPRkN4QjlQVHhJcEdzeElUYjlHcEVUUDhQWlc4ZHVBdXNHV0YwMEI4YmtYb1REbWk5cmsyZ0R2b2JYdUZZTVdVeVBPRGpYb0E3aG5Vekg0WkdMbUdTc0swU2tDcl96bDRPdndKRHZYWm5FQmJjaUZPSWtaVW5hRDQ4eTd0cHFYdlhmSHJDUFJDVVBkVUJMd3cyaFQ4cXRXcmhMWk1TZlhKX1diaE0?oc=5",
+      "desc": "Uncensored AI models are thriving on code hosting platforms The Register",
+      "date": "2026-11-19T09:30:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "desc": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "date": "2026-11-19T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "date": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "desc": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "date": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "date": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "desc": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "date": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Introducing Gemini 4 Neon",
       "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -79,27 +142,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower. - Towards Data Science",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjVyZDljdWhJeEhwdGlMUW1uc1J1TlVRV1NWTW5tMWpYWm11aXltckI2XzN6ZzJkdGFBWXZQMEF3TnJUSHMzSnphdHlBZnFBRU50NkUxaFpuOVFXOUFDS2lfc0VLUGVsVXphemhSSlp5RWFvdTRIWDh6QUo0QURBQXZCUlhySF9YblJSX1Nn?oc=5",
-      "desc": "Developers Felt 20% Faster With AI. They Were 19% Slower. Towards Data Science",
-      "date": "2026-11-18T05:18:02+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "desc": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "date": "2026-11-18T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "desc": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "date": "2026-11-18T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
       "link": "https://huggingface.co/blog/moe-expert-streaming",
       "desc": "",
@@ -128,13 +170,6 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "desc": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "date": "2026-11-17T17:45:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Google finds AI agent writing and launching exploits with no human in the loop - Help Net Security",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5",
       "desc": "Google finds AI agent writing and launching exploits with no human in the loop Help Net Security",
@@ -142,18 +177,11 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Introducing ChatGPT for Sales",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "desc": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
+      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
       "date": "2026-11-17T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "desc": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "date": "2026-11-17T00:00:00+00:00",
-      "source": "OpenAI"
+      "source": "AI agents & coding"
     },
     {
       "title": "How to Build a Software Engineering Career in the Age of AI Agents - Medium",
@@ -167,6 +195,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5",
       "desc": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold Google Cloud",
       "date": "2026-11-16T15:29:09+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1mNVUtaU1mbFc5RkYtbVl5SndUcjJPVm1FVjcxWnB1NW9KRHJoTloxZ053STNBdUxuVHhqLXF6dV8xRWRGMUNhRzVMSnhrNTRnNnRtY2s0WWMzeEVjR21HOVQwT0R3RkVXZDNYbFRqY2FYZl9wOElWc3JVRklDUFdRcWw?oc=5",
+      "desc": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches The Hacker News",
+      "date": "2026-11-16T14:00:00+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -205,25 +240,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "How to monitor AI agents in production before a bad answer reaches a customer - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0NHVENmYVQta3Fndk9LRmhDWGNzMGhkcVhlUFo2Z0RXMkhEWVlQb01RNlRNSzE1ai02dnBMN1Bfa2txeXZkV2x3dFVvRVk1bDd6N1R6Mk51cEEtQVQ3bjJpd1owMURDOHMyRlhROHhwNEpXckRsV2FCUEJrcUNMMnlmNGRMVHlwMERjeHEzYTd0dGNnWkxpVDJObTJrSm5uYUZvS2hBaGc?oc=5",
-      "desc": "How to monitor AI agents in production before a bad answer reaches a customer Startup Fortune",
-      "date": "2026-11-13T07:54:45+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "GitHub availability report: October 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "date": "2026-11-13T00:20:16+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3ZVem5ocGpUSkppWV9lRHhnZ3RIY3JaOFg3RW1VVksybEhzU2wxTFRacGhkZEhKSUVYWWk0OUMweGdfZEJTUjFQeTRFV1Q0NzF0ZWVtUkVkZDNaN0gzNHk4bkNoUkYtY2Z1SGtiQ1BTV09Sc0l0VnJ3aFVLQ0NTeVdfWmt1YVU?oc=5",
-      "desc": "Open-Source AI Coding Audit: 12 Steps, 80 Min [2026] shattered.io",
-      "date": "2026-11-12T23:24:26+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -240,25 +261,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM | Amazon Web Services - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUUyWmQ2elo4ZXVzSmFBN2x5TVlFSnY2VWktYnpNRi15UmJIQ01ZU1JJeFhwdDBPeU1DU29OQjFHcHhQWDJtVEJZZkNJb09UcVRQMUZ1Z3c4VjlISDRnc01lMjR4cEpVMjdnRVpDQmd4MzMweUcxcDdUbU00enM1YUV5Rmoxd1lSWVljam1JS0FQUG5pYWcxWG90VDE4LTVHRDJNQ3pfc0o2dUdRUWxnUDhRdy0?oc=5",
-      "desc": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM | Amazon Web Services Amazon Web Services (AWS)",
-      "date": "2026-11-12T18:41:12+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Introducing Gemini 4 Hydrogen",
       "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "desc": "",
       "date": "2026-11-12T18:00:50+00:00",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX21oblZCcGtqa2hITlRNblpBV1lLZ24xQ0UyVUpMTWE1dm12ZTNaQkphSkZHMTB2eGpEQ0tVVDNXTjhZZFh4b0NBSGlZV0RLWUpJaVJxQ0NHNGMzQkZxeVI0OHJUWnpTZGZTUXd3MWpnS2RfdjVpNGNmWTJRQVdvdnVFN2ZlcXhfckRZ?oc=5",
-      "desc": "LiteLLM now routes every request to the right OCI Generative AI model with a trained classifier Oracle Blogs",
-      "date": "2026-11-12T16:50:33+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
@@ -342,13 +349,6 @@
       "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
       "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
       "date": "2026-11-03T16:00:00+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "Game Off 2026: The theme is SHIFT",
-      "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "desc": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The ",
-      "date": "2026-11-01T21:36:00+00:00",
       "source": "GitHub Blog"
     }
   ],
