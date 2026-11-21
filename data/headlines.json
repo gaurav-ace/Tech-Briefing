@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-20T10:13:46.988021+00:00",
+  "updated_at": "2026-11-21T09:59:19.094521+00:00",
   "items": [
+    {
+      "title": "The Next Frontier in AI-Enabled Coding: Scaling Development - Communications of the ACM",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWJoS0dWZkFwandlNHhEd0tkdWZDZ2F2bUxPbXRTZFlCTklsSnBYOHNHTDF4RTgyNWhXT1dwTTFCVjc0WnNxQ0x0Z2t2ZFBmdXo0cWpCc0k4OExXZGxQTVNWaU1DYTlwYXU3QUhnZjFnNloxeTBpVTc3Smk5M1ZlbE5OVDNoR0Rwd0MxdS1B?oc=5",
+      "desc": "The Next Frontier in AI-Enabled Coding: Scaling Development Communications of the ACM",
+      "date": "2026-11-20T18:52:46+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "desc": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "date": "2026-11-20T10:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "How to Run a Local LLM for Private and Uncensored AI - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMjVWY2k2d2ROMXRSSS1XOW5fUXRKaHhuR1RPenk5YjR5c290dkxGNE11VDFTaWZzZkstRjRLNGN5RnBxTmVRNjhHM3dkRzZxbV9zdTBOaklKMkUtd01MY09QUUxMZWE5?oc=5",
@@ -16,18 +30,39 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "desc": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "date": "2026-11-20T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "desc": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "date": "2026-11-20T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "desc": "",
+      "date": "2026-11-20T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "desc": "",
+      "date": "2026-11-20T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
       "title": "The best things in open source are built together",
       "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "desc": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
       "date": "2026-11-19T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Uncensored AI models are thriving on code hosting platforms - The Register",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1BU2lQUkFieDhPRkN4QjlQVHhJcEdzeElUYjlHcEVUUDhQWlc4ZHVBdXNHV0YwMEI4YmtYb1REbWk5cmsyZ0R2b2JYdUZZTVdVeVBPRGpYb0E3aG5Vekg0WkdMbUdTc0swU2tDcl96bDRPdndKRHZYWm5FQmJjaUZPSWtaVW5hRDQ4eTd0cHFYdlhmSHJDUFJDVVBkVUJMd3cyaFQ4cXRXcmhMWk1TZlhKX1diaE0?oc=5",
-      "desc": "Uncensored AI models are thriving on code hosting platforms The Register",
-      "date": "2026-11-19T09:30:00+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -37,9 +72,9 @@
       "source": "OpenAI"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "date": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI"
     },
@@ -51,16 +86,16 @@
       "source": "OpenAI"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "desc": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "date": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "desc": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "date": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI"
     },
@@ -114,31 +149,10 @@
       "source": "OpenAI"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "desc": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "date": "2026-11-18T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "link": "https://openai.com/business/customer-stories/sumitomo-life",
       "desc": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "date": "2026-11-18T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "link": "https://openai.com/index/inside-the-codex-sandbox",
-      "desc": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "date": "2026-11-18T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "link": "https://openai.com/index/managing-frontier-ai-risk",
-      "desc": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "date": "2026-11-18T06:00:00+00:00",
       "source": "OpenAI"
     },
     {
@@ -168,6 +182,13 @@
       "desc": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
       "date": "2026-11-17T18:20:40+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom - Industrial Cyber",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVJWX0dmMTJScDVMTFpLOUx2ZDRaUldIYzM0NllCV3lfNjI5NVctZ1hVbVNPRHNFeDN0VW1jZ01uYVBUUWVDd3oxcVVNNGk0UElOUzd2bW53dVQzLXhoX0pnam1OTFNtTjlreVVqa2NyUTFNMTBRNktlbDF6eUJ3czF4N2xTd3I0ck5KSWlLdlhaMGc0aTg5MFZtQ3VacU9xa3M2bVhDQUZJUjNESjZqUVBUVUk3a29MUU5GSVk0cFQzMnViaGczcnR1V3ozYlZaN0tpUGQ1VHAtRFgwZkZ2dW9KZlY3UkRS?oc=5",
+      "desc": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom Industrial Cyber",
+      "date": "2026-11-17T10:50:58+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Google finds AI agent writing and launching exploits with no human in the loop - Help Net Security",
@@ -212,13 +233,6 @@
       "source": "Hugging Face"
     },
     {
-      "title": "AI-BOMs: A Practical Guide to AI Bills of Materials - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZ1k1WDRLQWYyUmg5R0xoUEpuZGwxTEVuN3Jrdi1GcXpNZUczMktoTk5yVFRLdlVIalpxdEJWSWp4X0thUDNUU0REZEFYdGtLSDgtYS1rREo1WW81MGx6SE1nSFZvU2V0bU9kcHVMdmxlR0JY?oc=5",
-      "desc": "AI-BOMs: A Practical Guide to AI Bills of Materials wiz.io",
-      "date": "2026-11-13T23:59:13+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "desc": "",
@@ -230,13 +244,6 @@
       "link": "https://huggingface.co/blog/allenai/xybench",
       "desc": "",
       "date": "2026-11-13T17:02:35+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "desc": "",
-      "date": "2026-11-13T14:05:22+00:00",
       "source": "Hugging Face"
     },
     {
@@ -252,13 +259,6 @@
       "desc": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared fi",
       "date": "2026-11-12T22:54:52+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "desc": "",
-      "date": "2026-11-12T19:07:35+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "Introducing Gemini 4 Hydrogen",
