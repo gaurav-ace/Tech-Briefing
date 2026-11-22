@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T09:59:19.094521+00:00",
+  "updated_at": "2026-11-22T09:58:40.099915+00:00",
   "items": [
     {
       "title": "The Next Frontier in AI-Enabled Coding: Scaling Development - Communications of the ACM",
@@ -14,20 +14,6 @@
       "desc": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "date": "2026-11-20T10:00:00+00:00",
       "source": "OpenAI"
-    },
-    {
-      "title": "How to Run a Local LLM for Private and Uncensored AI - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMjVWY2k2d2ROMXRSSS1XOW5fUXRKaHhuR1RPenk5YjR5c290dkxGNE11VDFTaWZzZkstRjRLNGN5RnBxTmVRNjhHM3dkRzZxbV9zdTBOaklKMkUtd01MY09QUUxMZWE5?oc=5",
-      "desc": "How to Run a Local LLM for Private and Uncensored AI shattered.io",
-      "date": "2026-11-20T06:41:43+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Does your AI agent need an LLM to decide what to do next? - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1TXBPWE5FQkRUVnhEdXdWTDQ1YVNXeVpGc0pGZmVmVVRrcFdvXzhXanJEVjhZUDFvQTZyaFVNV01tT0dVMEF1ODFqZHN0MktlNXUwZDU1U09QZmlHQUE?oc=5",
-      "desc": "Does your AI agent need an LLM to decide what to do next? The New Stack",
-      "date": "2026-11-20T01:41:34+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -58,6 +44,13 @@
       "source": "Hugging Face"
     },
     {
+      "title": "MathWorks Connects AI Agents to Engineering Tools With MCP and Skills - www.embedded.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTExWklwdWJiRGxNTF8xMUVxMjZQQmIxc25sRWpITEM5ZlFkS25id1hkT0RWZ0VJa0lMZlV6ZUljRUJveGJJWDY2b1ZsM1g5anp2MVJrUWJQWkVEX3I5aFJmcWItZ21jV0pZY2V0c1NMN3BJNjJRaDhpN2prUEMxRzBHNEVNRmd5SW93ZmhyTWMxdWhwVG5jYlRYdw?oc=5",
+      "desc": "MathWorks Connects AI Agents to Engineering Tools With MCP and Skills www.embedded.com",
+      "date": "2026-11-19T19:21:28+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "The best things in open source are built together",
       "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "desc": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
@@ -70,6 +63,13 @@
       "desc": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "date": "2026-11-19T08:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Vibe Code Bench Leaderboard and Methodology - Vals AI",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11ZUpNdUYtRU5haFBnV0lnb1RJa0VVWW53MmEwUHFhMXdxbVJwV3BEUzdfY001M29lVExDMktKY0pKeXl0QWJPSVcwZGxVLXhmblE?oc=5",
+      "desc": "Vibe Code Bench Leaderboard and Methodology Vals AI",
+      "date": "2026-11-19T08:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Explore the Codex Security Plugin",
