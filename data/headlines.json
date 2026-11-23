@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-22T09:58:40.099915+00:00",
+  "updated_at": "2026-11-23T10:58:05.382372+00:00",
   "items": [
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "desc": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "date": "2026-11-22T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
+      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
+      "date": "2026-11-21T08:00:00+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "The Next Frontier in AI-Enabled Coding: Scaling Development - Communications of the ACM",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWJoS0dWZkFwandlNHhEd0tkdWZDZ2F2bUxPbXRTZFlCTklsSnBYOHNHTDF4RTgyNWhXT1dwTTFCVjc0WnNxQ0x0Z2t2ZFBmdXo0cWpCc0k4OExXZGxQTVNWaU1DYTlwYXU3QUhnZjFnNloxeTBpVTc3Smk5M1ZlbE5OVDNoR0Rwd0MxdS1B?oc=5",
@@ -14,6 +28,13 @@
       "desc": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "date": "2026-11-20T10:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Does your AI agent need an LLM to decide what to do next? - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1TXBPWE5FQkRUVnhEdXdWTDQ1YVNXeVpGc0pGZmVmVVRrcFdvXzhXanJEVjhZUDFvQTZyaFVNV01tT0dVMEF1ODFqZHN0MktlNXUwZDU1U09QZmlHQUE?oc=5",
+      "desc": "Does your AI agent need an LLM to decide what to do next? The New Stack",
+      "date": "2026-11-20T01:41:34+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -72,9 +93,9 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "date": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI"
     },
@@ -93,18 +114,11 @@
       "source": "OpenAI"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "date": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI"
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "desc": "",
-      "date": "2026-11-18T21:35:43+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -119,13 +133,6 @@
       "desc": "",
       "date": "2026-11-18T18:53:43+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Genie 4 is now available",
-      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "desc": "",
-      "date": "2026-11-18T18:13:42+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits - Technology Org",
@@ -146,13 +153,6 @@
       "link": "https://openai.com/index/the-silent-consensus",
       "desc": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "date": "2026-11-18T10:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "desc": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "date": "2026-11-18T08:00:00+00:00",
       "source": "OpenAI"
     },
     {
@@ -184,24 +184,10 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom - Industrial Cyber",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVJWX0dmMTJScDVMTFpLOUx2ZDRaUldIYzM0NllCV3lfNjI5NVctZ1hVbVNPRHNFeDN0VW1jZ01uYVBUUWVDd3oxcVVNNGk0UElOUzd2bW53dVQzLXhoX0pnam1OTFNtTjlreVVqa2NyUTFNMTBRNktlbDF6eUJ3czF4N2xTd3I0ck5KSWlLdlhaMGc0aTg5MFZtQ3VacU9xa3M2bVhDQUZJUjNESjZqUVBUVUk3a29MUU5GSVk0cFQzMnViaGczcnR1V3ozYlZaN0tpUGQ1VHAtRFgwZkZ2dW9KZlY3UkRS?oc=5",
-      "desc": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom Industrial Cyber",
-      "date": "2026-11-17T10:50:58+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Google finds AI agent writing and launching exploits with no human in the loop - Help Net Security",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5",
       "desc": "Google finds AI agent writing and launching exploits with no human in the loop Help Net Security",
       "date": "2026-11-17T08:45:24+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
-      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
-      "date": "2026-11-17T08:00:00+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -261,53 +247,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "desc": "",
-      "date": "2026-11-12T18:00:50+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "date": "2026-11-11T15:00:15+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Git security vulnerabilities announced",
       "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "desc": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
       "date": "2026-11-10T18:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "desc": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "date": "2026-11-10T12:02:28+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Opening the datasets behind our AI weather models",
-      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10T11:13:04+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -324,25 +268,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "desc": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
       "date": "2026-11-05T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -353,6 +283,10 @@
     }
   ],
   "sources_failed": [
+    {
+      "source": "Google DeepMind",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
