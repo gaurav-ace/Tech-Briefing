@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-23T10:58:05.382372+00:00",
+  "updated_at": "2026-11-24T12:43:25.950168+00:00",
   "items": [
+    {
+      "title": "Inside Velox, The ‘Universal Engine Block’ For Big Data And AI - Open Source For You",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUtGeU1OV0xXQmhaeHBua2VucUFRUDRfNWpfRElvMlJNejVmZ1lROFRxU09lSmZiTDRmNXk5dGxPS1VBc0oyZWxESXQzdWxrZzQ1YUtGaXFDQnY4cE42eUZnUXNQcUJxcGFpMDlKTEM3SURiSkNWMU5ieXJlUkdYVXFZRFEtaWZfdm9RdzlQbnNqbmZvMHo0WFZaRzd2ZTYy?oc=5",
+      "desc": "Inside Velox, The ‘Universal Engine Block’ For Big Data And AI Open Source For You",
+      "date": "2026-11-24T04:30:10+00:00",
+      "source": "Systems, storage & C++"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "desc": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "date": "2026-11-23T21:20:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "desc": "",
+      "date": "2026-11-23T17:20:37+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "desc": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "date": "2026-11-23T16:59:40+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "desc": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "date": "2026-11-23T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "desc": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "date": "2026-11-23T08:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "desc": "",
+      "date": "2026-11-23T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Together AI Prompt Leak: 3 Models, 4 Days, 1 Credential - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjBXUTRDUkhhclRQOG1TLWRadFgtZ0l2Y1otQ1JNbWpINTh5dHpJc25DaFlGVFRfNGFocVdaWk9BWWNqN2E1QllkRTFJa2V3MWVrSzRkZzdyb2dJTXp0dlQzZFc1V0FCbkY2U2xybDVqcThiUkt1SzI5OEtKcVE0cDE3SWxRWk1XZ1k1aTNR?oc=5",
+      "desc": "Together AI Prompt Leak: 3 Models, 4 Days, 1 Credential shattered.io",
+      "date": "2026-11-22T08:49:24+00:00",
+      "source": "AI agents & coding"
+    },
     {
       "title": "Perplexity and Intelligence",
       "link": "https://openai.com/index/perplexity-and-intelligence",
@@ -23,11 +79,25 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "Agentic AI attacks cross a threshold: What it means for cybersecurity & incident response - JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzJqemhyS0JoTTFUNzFuRGFSanU5ek9oazctbEFGbGpCcVFTaHl6cVNhZVVUM25LU0d3ZUE3NUZIaVJ6M2pFcEg1WXZFRTJvenZIZW5mYzhZcDZsTFU3azQ2WXptNVkwa1hrbkdKb3R2QjJPQVVSR1pNdzlZc0s0Y1pBOUg4Zw?oc=5",
+      "desc": "Agentic AI attacks cross a threshold: What it means for cybersecurity & incident response JD Supra",
+      "date": "2026-11-20T16:51:17+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "Combatting adversarial distillation",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
       "desc": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "date": "2026-11-20T10:00:00+00:00",
       "source": "OpenAI"
+    },
+    {
+      "title": "Top 32 LLM Security Tools & Free Frameworks - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPalFYM0RMaGlaNUpuREhqdG1rNVdTR1o3WW5YOG5qNE1TMFV5a0g1VjBiYUJEV012MjQ3RWFka1NsR0RfOWI5ZHFDMXhzYngza05R?oc=5",
+      "desc": "Top 32 LLM Security Tools & Free Frameworks AIMultiple",
+      "date": "2026-11-20T08:00:00+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Does your AI agent need an LLM to decide what to do next? - The New Stack",
@@ -79,6 +149,13 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Uncensored AI models are thriving on code hosting platforms - The Register",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1BU2lQUkFieDhPRkN4QjlQVHhJcEdzeElUYjlHcEVUUDhQWlc4ZHVBdXNHV0YwMEI4YmtYb1REbWk5cmsyZ0R2b2JYdUZZTVdVeVBPRGpYb0E3aG5Vekg0WkdMbUdTc0swU2tDcl96bDRPdndKRHZYWm5FQmJjaUZPSWtaVW5hRDQ4eTd0cHFYdlhmSHJDUFJDVVBkVUJMd3cyaFQ4cXRXcmhMWk1TZlhKX1diaE0?oc=5",
+      "desc": "Uncensored AI models are thriving on code hosting platforms The Register",
+      "date": "2026-11-19T09:30:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "desc": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -91,13 +168,6 @@
       "desc": "Vibe Code Bench Leaderboard and Methodology Vals AI",
       "date": "2026-11-19T08:00:00+00:00",
       "source": "AI agents & coding"
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "date": "2026-11-19T00:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "See PR scans in action",
@@ -114,11 +184,11 @@
       "source": "OpenAI"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "date": "2026-11-19T00:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "desc": "",
+      "date": "2026-11-18T21:35:43+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -135,6 +205,13 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "desc": "",
+      "date": "2026-11-18T18:13:42+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits - Technology Org",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakJHX21LaURrSk9yU0h4ay1aOFVOaFRRcnpra1pCYUFIMDE2LXc3Zl9FeVY4X0ltUU5rRkVVVHFHZm5kY1Rhc255ZlZkdFR6SkI5NUpTYkNwNFhLN3V3Um5fOHMzNTI5RS05MXBpaHIwbmlPbHhHdnFLZGd1MFFxcmxZbW1DRjBDMENmRXk0SFVWenBzNlVQTTlKX0tRM2FlWWF3?oc=5",
       "desc": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits Technology Org",
@@ -147,13 +224,6 @@
       "desc": "",
       "date": "2026-11-18T15:00:23+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "The Silent Consensus",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "desc": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "date": "2026-11-18T10:00:00+00:00",
-      "source": "OpenAI"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -184,52 +254,10 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Google finds AI agent writing and launching exploits with no human in the loop - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5",
-      "desc": "Google finds AI agent writing and launching exploits with no human in the loop Help Net Security",
-      "date": "2026-11-17T08:45:24+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "How to Build a Software Engineering Career in the Age of AI Agents - Medium",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU016ZGc5YVA0RHNwVlhtZURSVUI3SUkwcDlEbWFiNmpSUVQtYXpSUXRXQ21DbVVJaHNMOUlucm1VZC1YNExyM1ZCeloxQmVjV216bVZEQlJ1R1Bkb3V5YjFlSEVrZDUxTDAxS2dyY0QzMXB5RkhsdkRpWjFXc3ZTeHlLOHFSY1dYRHk3SWExNUNnUnBBTjB4OXJGbEJuVGU4R3d2LWdIcTJTYlBLalRLWA?oc=5",
-      "desc": "How to Build a Software Engineering Career in the Age of AI Agents Medium",
-      "date": "2026-11-16T16:46:01+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5",
-      "desc": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold Google Cloud",
-      "date": "2026-11-16T15:29:09+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1mNVUtaU1mbFc5RkYtbVl5SndUcjJPVm1FVjcxWnB1NW9KRHJoTloxZ053STNBdUxuVHhqLXF6dV8xRWRGMUNhRzVMSnhrNTRnNnRtY2s0WWMzeEVjR21HOVQwT0R3RkVXZDNYbFRqY2FYZl9wOElWc3JVRklDUFdRcWw?oc=5",
-      "desc": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches The Hacker News",
-      "date": "2026-11-16T14:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "link": "https://huggingface.co/blog/openrouter",
       "desc": "",
       "date": "2026-11-16T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "desc": "",
-      "date": "2026-11-13T18:00:39+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "XYBench: Helping with the problem behind the question",
-      "link": "https://huggingface.co/blog/allenai/xybench",
-      "desc": "",
-      "date": "2026-11-13T17:02:35+00:00",
       "source": "Hugging Face"
     },
     {
@@ -247,11 +275,53 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "desc": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "date": "2026-11-11T15:00:15+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Git security vulnerabilities announced",
       "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "desc": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
       "date": "2026-11-10T18:00:00+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "desc": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -266,6 +336,13 @@
       "desc": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "date": "2026-11-05T20:23:21+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "desc": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Accessibility statements now have a home on GitHub",
@@ -283,10 +360,6 @@
     }
   ],
   "sources_failed": [
-    {
-      "source": "Google DeepMind",
-      "error": "not well-formed (invalid token): line 1, column 0"
-    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
