@@ -1,12 +1,89 @@
 {
-  "updated_at": "2026-11-24T12:43:25.950168+00:00",
+  "updated_at": "2026-11-25T11:30:26.884052+00:00",
   "items": [
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "desc": "",
+      "date": "2026-11-25T10:22:09+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Why AI Memory Isn't the Same as a Second Brain - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmWHhOemFOd2JoTkhTN29ZLV9Va0FQOW5RcURUNkJmV1k1bjl4Y3JsRUFXWV9GN29WQk1TSzJWc0swQVBuTUV2Qm0zTDhlcENZOTY4NHdmNmNNeDRsSmpMOGFqQk9OdmMwTW5tZ0pFTHAzODdnTmxV?oc=5",
+      "desc": "Why AI Memory Isn't the Same as a Second Brain HackerNoon",
+      "date": "2026-11-25T04:36:24+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
+      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
+      "date": "2026-11-24T20:47:04+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "desc": "",
+      "date": "2026-11-24T16:34:13+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "These are the gifts developers will actually want",
+      "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "desc": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+      "date": "2026-11-24T16:00:00+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "desc": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "date": "2026-11-24T13:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Bedrock Data enhances AI agent governance with intent-aware DLP - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBweVJ0T2xZWGhwU25lWWNEamZXcG91ckUwQXNYQmZZMFdidVdhbWJoSW9CMFNLVnlwX1NKc1RfWXlkUGVDS2p5SUZlMktjRDRaOFNGN3FreWdXcHd1SmNrU3FPbHVXZGt0dVZEOTJsNUZ2aHVD?oc=5",
+      "desc": "Bedrock Data enhances AI agent governance with intent-aware DLP Help Net Security",
+      "date": "2026-11-24T12:34:02+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "desc": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "date": "2026-11-24T11:00:00+00:00",
+      "source": "OpenAI"
+    },
     {
       "title": "Inside Velox, The ‘Universal Engine Block’ For Big Data And AI - Open Source For You",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUtGeU1OV0xXQmhaeHBua2VucUFRUDRfNWpfRElvMlJNejVmZ1lROFRxU09lSmZiTDRmNXk5dGxPS1VBc0oyZWxESXQzdWxrZzQ1YUtGaXFDQnY4cE42eUZnUXNQcUJxcGFpMDlKTEM3SURiSkNWMU5ieXJlUkdYVXFZRFEtaWZfdm9RdzlQbnNqbmZvMHo0WFZaRzd2ZTYy?oc=5",
       "desc": "Inside Velox, The ‘Universal Engine Block’ For Big Data And AI Open Source For You",
       "date": "2026-11-24T04:30:10+00:00",
       "source": "Systems, storage & C++"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "desc": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "date": "2026-11-24T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "desc": "",
+      "date": "2026-11-24T00:00:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "desc": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "date": "2026-11-24T00:00:00+00:00",
+      "source": "OpenAI"
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -21,13 +98,6 @@
       "desc": "",
       "date": "2026-11-23T17:20:37+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "desc": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "date": "2026-11-23T16:59:40+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Connected intelligence for in-house legal",
@@ -51,25 +121,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Together AI Prompt Leak: 3 Models, 4 Days, 1 Credential - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjBXUTRDUkhhclRQOG1TLWRadFgtZ0l2Y1otQ1JNbWpINTh5dHpJc25DaFlGVFRfNGFocVdaWk9BWWNqN2E1QllkRTFJa2V3MWVrSzRkZzdyb2dJTXp0dlQzZFc1V0FCbkY2U2xybDVqcThiUkt1SzI5OEtKcVE0cDE3SWxRWk1XZ1k1aTNR?oc=5",
-      "desc": "Together AI Prompt Leak: 3 Models, 4 Days, 1 Credential shattered.io",
-      "date": "2026-11-22T08:49:24+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Perplexity and Intelligence",
       "link": "https://openai.com/index/perplexity-and-intelligence",
       "desc": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "date": "2026-11-22T00:00:00+00:00",
       "source": "OpenAI"
-    },
-    {
-      "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
-      "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
-      "date": "2026-11-21T08:00:00+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "The Next Frontier in AI-Enabled Coding: Scaling Development - Communications of the ACM",
@@ -107,20 +163,6 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "desc": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "date": "2026-11-20T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "desc": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "date": "2026-11-20T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "link": "https://huggingface.co/blog/inkling2mini",
       "desc": "",
@@ -149,48 +191,6 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Uncensored AI models are thriving on code hosting platforms - The Register",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1BU2lQUkFieDhPRkN4QjlQVHhJcEdzeElUYjlHcEVUUDhQWlc4ZHVBdXNHV0YwMEI4YmtYb1REbWk5cmsyZ0R2b2JYdUZZTVdVeVBPRGpYb0E3aG5Vekg0WkdMbUdTc0swU2tDcl96bDRPdndKRHZYWm5FQmJjaUZPSWtaVW5hRDQ4eTd0cHFYdlhmSHJDUFJDVVBkVUJMd3cyaFQ4cXRXcmhMWk1TZlhKX1diaE0?oc=5",
-      "desc": "Uncensored AI models are thriving on code hosting platforms The Register",
-      "date": "2026-11-19T09:30:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "desc": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "date": "2026-11-19T08:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Vibe Code Bench Leaderboard and Methodology - Vals AI",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11ZUpNdUYtRU5haFBnV0lnb1RJa0VVWW53MmEwUHFhMXdxbVJwV3BEUzdfY001M29lVExDMktKY0pKeXl0QWJPSVcwZGxVLXhmblE?oc=5",
-      "desc": "Vibe Code Bench Leaderboard and Methodology Vals AI",
-      "date": "2026-11-19T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "See PR scans in action",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
-      "desc": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "date": "2026-11-19T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "desc": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "date": "2026-11-19T00:00:00+00:00",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "desc": "",
-      "date": "2026-11-18T21:35:43+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "desc": "",
@@ -205,11 +205,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Genie 4 is now available",
-      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "desc": "",
-      "date": "2026-11-18T18:13:42+00:00",
-      "source": "Google DeepMind"
+      "title": "Sashiko: Lessons from building an agentic code review system for Linux - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjNVUHJsb01PeEk5R3R3WmhyQlEzanB6ZUJjNlFjMXoyWVFHZWQ5V0FZTEpmRXhOdzFmRjNJSEtFZXJEYWttZXlnZ3E2ckhReUM0NGdlanlqUnNJNFcxcDdvR2FzOTRwemVlSHN3dGFRTGtobWNIYmJNYXQ5SjhEakN2R1FvdkRyVHRscVVGMTFyT2JEXzVxanFWLUhQWjlsN3NxSXRqNHMydUYtZnhZSkRLd0tBX1NWckJGdUJDZw?oc=5",
+      "desc": "Sashiko: Lessons from building an agentic code review system for Linux Google Cloud",
+      "date": "2026-11-18T17:24:21+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits - Technology Org",
@@ -217,13 +217,6 @@
       "desc": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits Technology Org",
       "date": "2026-11-18T17:12:00+00:00",
       "source": "AI agents & coding"
-    },
-    {
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "desc": "",
-      "date": "2026-11-18T15:00:23+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -254,13 +247,6 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "link": "https://huggingface.co/blog/openrouter",
-      "desc": "",
-      "date": "2026-11-16T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "GitHub availability report: October 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "desc": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
@@ -275,53 +261,11 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "desc": "",
-      "date": "2026-11-12T18:00:50+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "date": "2026-11-11T15:00:15+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Git security vulnerabilities announced",
       "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "desc": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
       "date": "2026-11-10T18:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "desc": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "date": "2026-11-10T12:02:28+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Opening the datasets behind our AI weather models",
-      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10T11:13:04+00:00",
-      "source": "Google DeepMind"
-    },
-    {
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind"
     },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -338,28 +282,18 @@
       "source": "GitHub Blog"
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "desc": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind"
-    },
-    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
       "date": "2026-11-05T16:00:00+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "desc": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
-      "date": "2026-11-03T16:00:00+00:00",
-      "source": "GitHub Blog"
     }
   ],
   "sources_failed": [
+    {
+      "source": "Google DeepMind",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
