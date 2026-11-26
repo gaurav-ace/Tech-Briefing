@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-25T11:30:26.884052+00:00",
+  "updated_at": "2026-11-26T11:11:48.488166+00:00",
   "items": [
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "desc": "",
+      "date": "2026-11-26T05:05:36+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "desc": "",
+      "date": "2026-11-25T18:52:55+00:00",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Art of play in the age of AI",
+      "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "desc": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "date": "2026-11-25T16:00:00+00:00",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "A Chinese University’s New Weekly Allowance: 100 Million AI Tokens - Sixth Tone",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XUm1MMFh0SWZ4ZDAyUnRQTkliUjRVTV9IOTR1WUQza0k4MkJqQi1aTEtaVEE4WEktLXo4YWxMWDdDOUdlWldPbG1mQUVpT2c?oc=5",
+      "desc": "A Chinese University’s New Weekly Allowance: 100 Million AI Tokens Sixth Tone",
+      "date": "2026-11-25T15:21:26+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "desc": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+      "date": "2026-11-25T15:00:00+00:00",
+      "source": "GitHub Blog"
+    },
     {
       "title": "An Indic Voice Agent with CUGA",
       "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
@@ -16,6 +51,13 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "desc": "",
+      "date": "2026-11-25T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
       "title": "Best Open Source AI Models in 2026, Ranked and Compared - Fello AI",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
       "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
@@ -23,18 +65,18 @@
       "source": "AI agents & coding"
     },
     {
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "desc": "",
-      "date": "2026-11-24T16:34:13+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "These are the gifts developers will actually want",
       "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
       "desc": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
       "date": "2026-11-24T16:00:00+00:00",
       "source": "GitHub Blog"
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "desc": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "date": "2026-11-24T13:07:53+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -93,11 +135,11 @@
       "source": "OpenAI"
     },
     {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "link": "https://huggingface.co/blog/allenai/robotrack",
-      "desc": "",
-      "date": "2026-11-23T17:20:37+00:00",
-      "source": "Hugging Face"
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "desc": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "date": "2026-11-23T16:59:40+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "Connected intelligence for in-house legal",
@@ -156,6 +198,13 @@
       "source": "AI agents & coding"
     },
     {
+      "title": "How to Run a Local LLM for Private and Uncensored AI - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMjVWY2k2d2ROMXRSSS1XOW5fUXRKaHhuR1RPenk5YjR5c290dkxGNE11VDFTaWZzZkstRjRLNGN5RnBxTmVRNjhHM3dkRzZxbV9zdTBOaklKMkUtd01MY09QUUxMZWE5?oc=5",
+      "desc": "How to Run a Local LLM for Private and Uncensored AI shattered.io",
+      "date": "2026-11-20T06:41:43+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "Does your AI agent need an LLM to decide what to do next? - The New Stack",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1TXBPWE5FQkRUVnhEdXdWTDQ1YVNXeVpGc0pGZmVmVVRrcFdvXzhXanJEVjhZUDFvQTZyaFVNV01tT0dVMEF1ODFqZHN0MktlNXUwZDU1U09QZmlHQUE?oc=5",
       "desc": "Does your AI agent need an LLM to decide what to do next? The New Stack",
@@ -191,6 +240,13 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "desc": "",
+      "date": "2026-11-18T21:35:43+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "desc": "",
@@ -205,29 +261,15 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Sashiko: Lessons from building an agentic code review system for Linux - Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjNVUHJsb01PeEk5R3R3WmhyQlEzanB6ZUJjNlFjMXoyWVFHZWQ5V0FZTEpmRXhOdzFmRjNJSEtFZXJEYWttZXlnZ3E2ckhReUM0NGdlanlqUnNJNFcxcDdvR2FzOTRwemVlSHN3dGFRTGtobWNIYmJNYXQ5SjhEakN2R1FvdkRyVHRscVVGMTFyT2JEXzVxanFWLUhQWjlsN3NxSXRqNHMydUYtZnhZSkRLd0tBX1NWckJGdUJDZw?oc=5",
-      "desc": "Sashiko: Lessons from building an agentic code review system for Linux Google Cloud",
-      "date": "2026-11-18T17:24:21+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakJHX21LaURrSk9yU0h4ay1aOFVOaFRRcnpra1pCYUFIMDE2LXc3Zl9FeVY4X0ltUU5rRkVVVHFHZm5kY1Rhc255ZlZkdFR6SkI5NUpTYkNwNFhLN3V3Um5fOHMzNTI5RS05MXBpaHIwbmlPbHhHdnFLZGd1MFFxcmxZbW1DRjBDMENmRXk0SFVWenBzNlVQTTlKX0tRM2FlWWF3?oc=5",
-      "desc": "Google GTIG Finds Attackers Using AI Agents to Turn Patches Into Working Exploits Technology Org",
-      "date": "2026-11-18T17:12:00+00:00",
-      "source": "AI agents & coding"
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "desc": "",
+      "date": "2026-11-18T18:13:42+00:00",
+      "source": "Google DeepMind"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
       "link": "https://huggingface.co/blog/moe-expert-streaming",
-      "desc": "",
-      "date": "2026-11-18T00:00:00+00:00",
-      "source": "Hugging Face"
-    },
-    {
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "link": "https://huggingface.co/blog/rumble-2-flash",
       "desc": "",
       "date": "2026-11-18T00:00:00+00:00",
       "source": "Hugging Face"
@@ -261,6 +303,20 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "desc": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "date": "2026-11-11T15:00:15+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Git security vulnerabilities announced",
       "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "desc": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
@@ -268,32 +324,42 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "desc": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "desc": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind"
+    },
+    {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "desc": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agenti",
       "date": "2026-11-06T22:15:59+00:00",
       "source": "GitHub Blog"
-    },
-    {
-      "title": "Inside GitHub’s new Git storage architecture",
-      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "desc": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "date": "2026-11-05T20:23:21+00:00",
-      "source": "GitHub Blog"
-    },
-    {
-      "title": "Accessibility statements now have a home on GitHub",
-      "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "desc": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared fir",
-      "date": "2026-11-05T16:00:00+00:00",
-      "source": "GitHub Blog"
     }
   ],
   "sources_failed": [
-    {
-      "source": "Google DeepMind",
-      "error": "not well-formed (invalid token): line 1, column 0"
-    },
     {
       "source": "Microsoft AI",
       "error": "HTTP Error 410: Gone"
