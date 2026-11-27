@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-26T11:11:48.488166+00:00",
+  "updated_at": "2026-11-27T11:03:38.033608+00:00",
   "items": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "desc": "",
+      "date": "2026-11-26T11:37:17+00:00",
+      "source": "Hugging Face"
+    },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -9,11 +16,25 @@
       "source": "Hugging Face"
     },
     {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "desc": "",
+      "date": "2026-11-26T00:00:00+00:00",
+      "source": "Hugging Face"
+    },
+    {
       "title": "Where scientists draw the line on AI agents",
       "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
       "desc": "",
       "date": "2026-11-25T18:52:55+00:00",
       "source": "Hugging Face"
+    },
+    {
+      "title": "Black Duck Polaris Closes AppSec Blind Spots With AI and On-Prem Sync - The Futurum Group",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWhMVU43Mk00ZEMxbndHQ2pxejE4Q1luSExYdzN3bzRjNmFXcko5UVhGS01VU2wtOGhBNGZwaFBjUzhMYXZvYUl2Y2xiUHE1WS1oY1lpVXdrb2Nxb1ZmZ0FjU1lCOWZyanZoalpud1lxZUF1OERxekxvVnRHQTdIT19Ra2paSFVsenI5LUhQV05hcVU2MEEtRHdZRVVjNnlBWVkyWUd0VQ?oc=5",
+      "desc": "Black Duck Polaris Closes AppSec Blind Spots With AI and On-Prem Sync The Futurum Group",
+      "date": "2026-11-25T16:18:58+00:00",
+      "source": "AI agents & coding"
     },
     {
       "title": "Art of play in the age of AI",
@@ -37,18 +58,18 @@
       "source": "GitHub Blog"
     },
     {
+      "title": "Best AI Courses (2026): Udemy Online AI, LLM and AI Agent Courses Reviewed by Expert Consumers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzloUmpweGxnZm9XbHhjaEpsdXp1ZzNKQVRzbnJtWFg1QUNpeDVMRXM0YUNzV3B2TmRDSmZJT3Fuak5hRFhhbW5wR3ZReXoxZC1lSlZld0ltTHEwcV82ZlB5VUdHQ1BsYTVFMzJ0WWYzMDBaOUNpWW9lb1prT0dnYzFJNmJEajRWOHJaNDAyX1lpYUQz?oc=5",
+      "desc": "Best AI Courses (2026): Udemy Online AI, LLM and AI Agent Courses Reviewed by Expert Consumers Yahoo Finance",
+      "date": "2026-11-25T11:20:00+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "An Indic Voice Agent with CUGA",
       "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
       "desc": "",
       "date": "2026-11-25T10:22:09+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "Why AI Memory Isn't the Same as a Second Brain - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmWHhOemFOd2JoTkhTN29ZLV9Va0FQOW5RcURUNkJmV1k1bjl4Y3JsRUFXWV9GN29WQk1TSzJWc0swQVBuTUV2Qm0zTDhlcENZOTY4NHdmNmNNeDRsSmpMOGFqQk9OdmMwTW5tZ0pFTHAzODdnTmxV?oc=5",
-      "desc": "Why AI Memory Isn't the Same as a Second Brain HackerNoon",
-      "date": "2026-11-25T04:36:24+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
@@ -62,6 +83,20 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZzZVb1llckpDajdIc0xua0d6VWU5SDJoN1dfR1hYQmtUTUZmdlZUN3Etd0cxY2FfcVMyVDlFTVl0YUNNT2hmOFVYMXV5SXJ5LTE5ME9qbGJRVWc?oc=5",
       "desc": "Best Open Source AI Models in 2026, Ranked and Compared Fello AI",
       "date": "2026-11-24T20:47:04+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "AI is moving way too fast - Silver Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MUFpNM3hwS245VENHQy1WdUVwN0VtTS1Vek1VS3FTS0ljVVE4X3FPSlhxMDQ3YXlteDZxZVFMMWdxaVlReDRrWkNOMTd6R1N1TEE1eGRDT2ZOMHhLY3VIb0VBVjg?oc=5",
+      "desc": "AI is moving way too fast Silver Bulletin",
+      "date": "2026-11-24T18:24:31+00:00",
+      "source": "AI agents & coding"
+    },
+    {
+      "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio - KDnuggets",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHFTS0IyaWpRWlBoWjRFTFZKVG1BU0lCLWFVNGFGYWs3eWVGaWpuaG5WSG1YcnU5VlBMMVZHdzFOemtrU0Z2eEM2dG81ZjV4NDN0ZzFjTGQxQmJGLTB2VjlCM2ljRTJDdktiOFBReU1VRXdXd3phc3VOcDVpTWVVZzhERGxSSGg3eXRGZUtDWjE2SEVqM0RLUDRjQQ?oc=5",
+      "desc": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio KDnuggets",
+      "date": "2026-11-24T17:11:25+00:00",
       "source": "AI agents & coding"
     },
     {
@@ -170,6 +205,13 @@
       "source": "OpenAI"
     },
     {
+      "title": "OpenCode and a local LLM handle the boring 80% of my coding, so Claude only gets the hard part - XDA",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmpqNE9ydlRXRVA1TGU5OU9TZmM3UUJHNWVTU2YzbloxWVNYcUpSSnpEOXhoLVV0bVl6VUJPdTFDYnYyVW93LTh1WjJVaVN4Y1dweGVyX3ltem0yWk44TU84dUI5a0xpTndtdXVwT2VJcnZzTEpDXzFyN1o4eUVRWWxSUlI2MXl4U242bWJUNUZ4Z0ZhMGRqbWhxQVFiM21WbDhYYmQxM01BeERqTFg1ZjVoNzFmb1JENTFaQjR0R1pDZw?oc=5",
+      "desc": "OpenCode and a local LLM handle the boring 80% of my coding, so Claude only gets the hard part XDA",
+      "date": "2026-11-21T19:00:20+00:00",
+      "source": "AI agents & coding"
+    },
+    {
       "title": "The Next Frontier in AI-Enabled Coding: Scaling Development - Communications of the ACM",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWJoS0dWZkFwandlNHhEd0tkdWZDZ2F2bUxPbXRTZFlCTklsSnBYOHNHTDF4RTgyNWhXT1dwTTFCVjc0WnNxQ0x0Z2t2ZFBmdXo0cWpCc0k4OExXZGxQTVNWaU1DYTlwYXU3QUhnZjFnNloxeTBpVTc3Smk5M1ZlbE5OVDNoR0Rwd0MxdS1B?oc=5",
       "desc": "The Next Frontier in AI-Enabled Coding: Scaling Development Communications of the ACM",
@@ -191,27 +233,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Top 32 LLM Security Tools & Free Frameworks - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPalFYM0RMaGlaNUpuREhqdG1rNVdTR1o3WW5YOG5qNE1TMFV5a0g1VjBiYUJEV012MjQ3RWFka1NsR0RfOWI5ZHFDMXhzYngza05R?oc=5",
-      "desc": "Top 32 LLM Security Tools & Free Frameworks AIMultiple",
-      "date": "2026-11-20T08:00:00+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "How to Run a Local LLM for Private and Uncensored AI - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wMjVWY2k2d2ROMXRSSS1XOW5fUXRKaHhuR1RPenk5YjR5c290dkxGNE11VDFTaWZzZkstRjRLNGN5RnBxTmVRNjhHM3dkRzZxbV9zdTBOaklKMkUtd01MY09QUUxMZWE5?oc=5",
-      "desc": "How to Run a Local LLM for Private and Uncensored AI shattered.io",
-      "date": "2026-11-20T06:41:43+00:00",
-      "source": "AI agents & coding"
-    },
-    {
-      "title": "Does your AI agent need an LLM to decide what to do next? - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1TXBPWE5FQkRUVnhEdXdWTDQ1YVNXeVpGc0pGZmVmVVRrcFdvXzhXanJEVjhZUDFvQTZyaFVNV01tT0dVMEF1ODFqZHN0MktlNXUwZDU1U09QZmlHQUE?oc=5",
-      "desc": "Does your AI agent need an LLM to decide what to do next? The New Stack",
-      "date": "2026-11-20T01:41:34+00:00",
-      "source": "AI agents & coding"
-    },
-    {
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "link": "https://huggingface.co/blog/inkling2mini",
       "desc": "",
@@ -224,13 +245,6 @@
       "desc": "",
       "date": "2026-11-20T00:00:00+00:00",
       "source": "Hugging Face"
-    },
-    {
-      "title": "MathWorks Connects AI Agents to Engineering Tools With MCP and Skills - www.embedded.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTExWklwdWJiRGxNTF8xMUVxMjZQQmIxc25sRWpITEM5ZlFkS25id1hkT0RWZ0VJa0lMZlV6ZUljRUJveGJJWDY2b1ZsM1g5anp2MVJrUWJQWkVEX3I5aFJmcWItZ21jV0pZY2V0c1NMN3BJNjJRaDhpN2prUEMxRzBHNEVNRmd5SW93ZmhyTWMxdWhwVG5jYlRYdw?oc=5",
-      "desc": "MathWorks Connects AI Agents to Engineering Tools With MCP and Skills www.embedded.com",
-      "date": "2026-11-19T19:21:28+00:00",
-      "source": "AI agents & coding"
     },
     {
       "title": "The best things in open source are built together",
@@ -254,25 +268,11 @@
       "source": "Hugging Face"
     },
     {
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "desc": "",
-      "date": "2026-11-18T18:53:43+00:00",
-      "source": "Hugging Face"
-    },
-    {
       "title": "Genie 4 is now available",
       "link": "https://deepmind.google/blog/genie-4-is-now-available/",
       "desc": "",
       "date": "2026-11-18T18:13:42+00:00",
       "source": "Google DeepMind"
-    },
-    {
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "link": "https://huggingface.co/blog/moe-expert-streaming",
-      "desc": "",
-      "date": "2026-11-18T00:00:00+00:00",
-      "source": "Hugging Face"
     },
     {
       "title": "Maintainers don’t need more AI bug reports. They need fixes.",
